@@ -2,14 +2,16 @@
 
 Reproducible code and derived data for the 2015-2025 analysis of regulatory language in 1,045 annual reports from 95 companies in the retained ASX200 continuity panel.
 
-The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It also codes the surrounding passages by theme and frame, produces sector and company comparisons, and audits document quality.
+The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It provides year, sector, and company comparisons and audits document quality.
 
 ## What is included
 
-- `scripts/extract-regulatory-language.ps1` - PDF-to-text extraction, word counting, six-term incidence, thematic coding, and frame coding.
+- `scripts/extract-regulatory-language.ps1` - PDF-to-text extraction, word counting, and six-term incidence.
 - `scripts/build-company-year-data.ps1` - rebuilds the company-year incidence table from extraction shards.
 - `scripts/generate-html-report.ps1` - self-contained interactive HTML report generator.
-- `scripts/process-dashboard-data.ps1` - graph-ready annual, sector, company, and histogram datasets.
+- `scripts/process-dashboard-data.ps1` - graph-ready annual, sector, and company datasets.
+- `scripts/archive-removed-sections.py` - one-time preservation utility for the removed histogram, theme, and frame outputs.
+- `archive/` - standalone HTML and Excel copies of those removed exploratory sections.
 - `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` - spreadsheet exports.
 - `scripts/quality/` - PDF integrity, identity, completeness, word-count, and Form 20-F checks.
 - `data/processed/company-year-analysis.csv` - the 1,045-row company-year analytical dataset.
@@ -93,7 +95,7 @@ Incidence is calculated as:
 
 This measures disclosure-language frequency. It does not measure actual compliance expenditure, legal exposure, regulatory quality, or whether regulation is beneficial or burdensome. Differences can also reflect report length, reporting style, OCR quality, corporate structure, and sector-specific disclosure conventions.
 
-See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations. See [VALIDATION.md](VALIDATION.md) for completed coding guardrails and the independent human-validation protocol. Theme and frame outputs remain exploratory until that protocol is completed.
+See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations. The exploratory histogram, theme, and frame sections are no longer part of the main report.
 
 ## Tests and continuous integration
 
@@ -103,7 +105,7 @@ Run the repository checks without the annual-report PDFs:
 python -m unittest discover -s tests -v
 ```
 
-The tests verify the balanced-panel shape, non-overlapping lexical definitions, passage-coding guardrails, exclusive frame totals, absence of report extracts and revenue fields, company-year incidence calculations, and corpus-weighted annual aggregation. GitHub Actions runs these checks and parses every PowerShell script on each push and pull request.
+The tests verify the balanced-panel shape, non-overlapping lexical definitions, absence of report extracts and revenue fields, company-year incidence calculations, and corpus-weighted annual aggregation. GitHub Actions runs these checks and parses every PowerShell script on each push and pull request.
 
 ## Data provenance
 

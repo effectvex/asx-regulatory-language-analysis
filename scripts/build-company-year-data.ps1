@@ -37,7 +37,6 @@ foreach ($file in (Get-ChildItem -LiteralPath $ShardDirectory -Filter 'balanced-
       IsASX50 = [string]$meta.IsASX50
       SixTermIncidencePer100k = $incidence
       ExtractedWords = [int64]$row.Words
-      CodedPassages = [int64]$row.Coded
     })
   }
 }

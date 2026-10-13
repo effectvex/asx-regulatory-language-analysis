@@ -43,32 +43,24 @@ class DataIntegrityTests(unittest.TestCase):
         self.assertEqual(len(regulator), 2)
         self.assertTrue(set(regulation).isdisjoint(regulator))
 
-    def test_passage_segmentation_and_frame_guardrails(self):
-        source = EXTRACTOR.read_text(encoding="utf-8-sig")
-        self.assertIn("function Get-ReportPassages", source)
-        self.assertIn("function Get-CodingContext", source)
-        self.assertIn("while ($remaining.Length -gt 800)", source)
-        self.assertIn("$cue.Index - 220", source)
-        cost_rule = re.search(
-            r"function Get-PrimaryFrame.*?if \(\$Passage -match '([^']+)'\)",
-            source,
-            re.S,
-        )
-        self.assertIsNotNone(cost_rule)
-        self.assertNotRegex(cost_rule.group(1), r"\|risk(?:\||\))")
-
     def test_report_generator_has_no_revenue_analysis(self):
         source = REPORT_GENERATOR.read_text(encoding="utf-8-sig").lower()
         self.assertNotIn("revenuemillions", source)
         self.assertNotIn("annual revenue", source)
 
-    def test_counts_are_nonnegative_and_frames_are_exclusive(self):
+    def test_main_report_composes_only_three_retained_sections(self):
+        source = REPORT_GENERATOR.read_text(encoding="utf-8-sig")
+        self.assertIn(
+            "$html=$prefix+$yearSection+$sectorSection+$companySection+$footer",
+            source,
+        )
+        self.assertNotIn("+$histogramSection+$themeSection+$frameSection+", source)
+
+    def test_counts_are_nonnegative(self):
         for row in self.records:
             self.assertGreater(int(row["Words"]), 0)
-            self.assertGreaterEqual(int(row["Coded"]), 0)
             self.assertEqual(set(row["Terms"]), set(TERM_KEYS))
             self.assertTrue(all(int(value) >= 0 for value in row["Terms"].values()))
-            self.assertEqual(sum(int(value) for value in row["Frames"].values()), int(row["Coded"]))
 
     def test_public_shards_contain_no_report_extracts(self):
         self.assertTrue(all(not row.get("Evidence") for row in self.records))
@@ -79,6 +71,7 @@ class DataIntegrityTests(unittest.TestCase):
         self.assertEqual(len(rows), 1045)
         self.assertNotIn("AnnualRevenueMillions", rows[0])
         self.assertNotIn("RevenueCurrency", rows[0])
+        self.assertNotIn("CodedPassages", rows[0])
         shard_by_key = {(row["Ticker"], int(row["Year"])): row for row in self.records}
         for row in rows:
             source = shard_by_key[(row["Ticker"], int(row["Year"]))]
