@@ -1,4 +1,4 @@
-"""Archive the histogram, thematic coding, and frame analysis before removal."""
+"""Archive unverified work-in-progress thematic and framing outputs."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ import statistics
 from collections import Counter, defaultdict
 from pathlib import Path
 
-from openpyxl import Workbook
+from openpyxl import Workbook, load_workbook
 from openpyxl.chart import BarChart, Reference
 from openpyxl.styles import Alignment, Font, PatternFill
 
@@ -139,11 +139,12 @@ def write_workbook(records: list[dict], metadata: dict, output: Path) -> None:
 
     notes = workbook.create_sheet("Methodology")
     notes.append(["Field", "Description"])
+    notes.append(["Status", "Work in progress; the thematic and framing code and outputs have not been verified by a person."])
     notes.append(["Archive scope", "Histogram, thematic coding, and frame analysis removed from the main dashboard."])
     notes.append(["Histogram", "Company-year six-term incidence per 100,000 extracted words; yearly statistics use population standard deviation."])
     notes.append(["Themes", "Deterministic multi-label dictionary codes; one passage can receive multiple themes."])
     notes.append(["Frames", "Deterministic mutually exclusive primary frame assigned to each retained passage."])
-    notes.append(["Validation", "Exploratory coding only; independent human validation has not been completed."])
+    notes.append(["Validation", "No manual validation sample, inter-coder reliability study, or expert review has been completed."])
     style_sheet(notes)
 
     theme_chart = BarChart()
@@ -183,14 +184,56 @@ def write_html(source: Path, output: Path) -> None:
     archived = (
         "<!doctype html><html lang='en'>" + archived_head + "<body><main>"
         "<header><h1>Archived histogram, thematic coding and frame analysis</h1>"
-        "<p class='dek'>Preserved from the balanced ASX200 regulatory-language report before these exploratory sections were removed from the main dashboard.</p>"
+        "<p class='dek'><strong>Work in progress — not human-verified.</strong> The thematic and framing code and outputs have not been verified by a person. Preserved from the balanced ASX200 regulatory-language report before these exploratory sections were removed from the main dashboard.</p>"
         "<div class='meta'><span class='pill'>95 companies</span><span class='pill'>1,045 reports</span><span class='pill'>2015-2025</span></div></header>"
         + sections.group(0)
-        + "<footer>Archived analytical sections. Theme and frame coding is exploratory and has not received independent human validation.</footer>"
+        + "<footer>Work in progress: the thematic and framing code and outputs have not been verified by a person and are not part of the main dashboard.</footer>"
         "</main>" + script.group(0) + "</body></html>"
     )
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(archived, encoding="utf-8")
+
+
+def write_coding_only_html(source: Path, output: Path) -> None:
+    html = source.read_text(encoding="utf-8-sig")
+    head = re.search(r"(?s)<head>.*?</head>", html)
+    sections = re.search(r"(?s)<h2>5\. Thematic coding.*?(?=<footer>)", html)
+    if not (head and sections):
+        raise ValueError("Could not locate the thematic and framing sections")
+    coding_head = re.sub(
+        r"<title>.*?</title>",
+        "<title>Experimental thematic coding and frame analysis</title>",
+        head.group(0),
+    )
+    coding_html = (
+        "<!doctype html><html lang='en'>" + coding_head + "<body><main>"
+        "<header><h1>Experimental thematic coding and frame analysis</h1>"
+        "<p class='dek'><strong>Work in progress — not human-verified.</strong> "
+        "Neither the code nor these outputs have been verified by a person. "
+        "They are published for inspection and must not be treated as validated findings.</p>"
+        "<div class='meta'><span class='pill'>95 companies</span><span class='pill'>1,045 reports</span><span class='pill'>2015-2025</span></div></header>"
+        + sections.group(0)
+        + "<footer>Experimental work in progress. No manual coding validation or expert review has been completed.</footer>"
+        "</main></body></html>"
+    )
+    coding_html = coding_html.replace("<h2>5. Thematic coding</h2>", "<h2>1. Thematic coding</h2>")
+    coding_html = coding_html.replace("<h2>6. Frame analysis</h2>", "<h2>2. Frame analysis</h2>")
+    output.write_text(coding_html, encoding="utf-8")
+
+
+def write_coding_only_workbook(source: Path, output: Path) -> None:
+    workbook = load_workbook(source)
+    for name in ("Histogram Observations", "Yearly Distribution"):
+        if name in workbook.sheetnames:
+            del workbook[name]
+    notes = workbook["Methodology"]
+    for row in range(notes.max_row, 1, -1):
+        field = notes.cell(row, 1).value
+        if field == "Histogram":
+            notes.delete_rows(row)
+        elif field == "Archive scope":
+            notes.cell(row, 2).value = "Thematic coding and frame analysis removed from the main dashboard."
+    workbook.save(output)
 
 
 def main() -> None:
@@ -203,8 +246,12 @@ def main() -> None:
 
     records = load_records(args.shards)
     metadata = load_metadata(args.metadata)
-    write_html(args.source_html, args.output_directory / "histogram-themes-frames-2015-2025.html")
-    write_workbook(records, metadata, args.output_directory / "histogram-themes-frames-2015-2025.xlsx")
+    combined_html = args.output_directory / "histogram-themes-frames-2015-2025.html"
+    combined_workbook = args.output_directory / "histogram-themes-frames-2015-2025.xlsx"
+    write_html(args.source_html, combined_html)
+    write_workbook(records, metadata, combined_workbook)
+    write_coding_only_html(combined_html, args.output_directory / "thematic-coding-and-frame-analysis-2015-2025.html")
+    write_coding_only_workbook(combined_workbook, args.output_directory / "thematic-coding-and-frame-analysis-2015-2025.xlsx")
     print(f"written={args.output_directory.resolve()}")
 
 

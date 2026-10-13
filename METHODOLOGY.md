@@ -18,7 +18,15 @@ The quality scripts test PDF signatures and trailers, Poppler readability, page 
 
 ## Removed exploratory analyses
 
-The histogram, thematic coding, and frame analysis were removed from the main dashboard. Their final results can be exported before removal with `scripts/archive-removed-sections.py`; they are not part of the retained analytical claims.
+The histogram, thematic coding, and frame analysis were removed from the main dashboard. Their final results can be exported with `scripts/archive-removed-sections.py`; they are not part of the retained analytical claims.
+
+### Experimental thematic coding
+
+Retained passages can receive multiple dictionary-based themes covering governance, regulatory change, reporting, direct cost, systems, licensing, environmental obligations, financial rules, workforce obligations, and privacy or cyber matters. Because assignment is multi-label, theme totals are not mutually exclusive shares. The coding rules and outputs are work in progress and have not been verified by a person.
+
+### Experimental framing
+
+Retained passages receive one frame from an ordered dictionary: cost or challenge, transition or anticipation, opportunity or legitimacy, obligation or control, or descriptive or neutral. Because the rules are ordered, an earlier match takes priority. The framing code and archived outputs are work in progress. Neither has been verified by a person, and no manual inter-coder validation has been completed.
 
 ## Important limitations
 

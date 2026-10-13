@@ -13,6 +13,7 @@ PROCESSED = ROOT / "data" / "processed" / "company-year-analysis.csv"
 ANNUAL = ROOT / "data" / "graph-data" / "annual-incidence.csv"
 EXTRACTOR = ROOT / "scripts" / "extract-regulatory-language.ps1"
 REPORT_GENERATOR = ROOT / "scripts" / "generate-html-report.ps1"
+EXPERIMENTAL_DOC = ROOT / "EXPERIMENTAL_ANALYSES.md"
 TERM_KEYS = ("regulation", "compliance", "burden", "requirement", "regulator", "legislation")
 
 
@@ -64,6 +65,14 @@ class DataIntegrityTests(unittest.TestCase):
 
     def test_public_shards_contain_no_report_extracts(self):
         self.assertTrue(all(not row.get("Evidence") for row in self.records))
+
+    def test_experimental_coding_is_structurally_consistent_and_clearly_unverified(self):
+        for row in self.records:
+            self.assertEqual(sum(int(value) for value in row["Frames"].values()), int(row["Coded"]))
+            self.assertTrue(all(int(value) >= 0 for value in row["Themes"].values()))
+        warning = EXPERIMENTAL_DOC.read_text(encoding="utf-8-sig").lower()
+        self.assertIn("neither the code nor the outputs", warning)
+        self.assertIn("verified by a person", warning)
 
     def test_processed_table_matches_shards(self):
         with PROCESSED.open(newline="", encoding="utf-8-sig") as handle:

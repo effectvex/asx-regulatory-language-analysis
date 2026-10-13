@@ -4,14 +4,17 @@ Reproducible code and derived data for the 2015-2025 analysis of regulatory lang
 
 The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It provides year, sector, and company comparisons and audits document quality.
 
+> **Experimental work in progress:** The repository preserves rule-based thematic coding and frame analysis. Neither the experimental code nor its outputs have been verified by a person. They are published for inspection and further development, not as validated findings, and they are excluded from the main dashboard.
+
 ## What is included
 
-- `scripts/extract-regulatory-language.ps1` - PDF-to-text extraction, word counting, and six-term incidence.
+- `scripts/extract-regulatory-language.ps1` - PDF-to-text extraction, word counting, six-term incidence, and experimental rule-based thematic and framing fields.
 - `scripts/build-company-year-data.ps1` - rebuilds the company-year incidence table from extraction shards.
 - `scripts/generate-html-report.ps1` - self-contained interactive HTML report generator.
 - `scripts/process-dashboard-data.ps1` - graph-ready annual, sector, and company datasets.
 - `scripts/archive-removed-sections.py` - one-time preservation utility for the removed histogram, theme, and frame outputs.
 - `archive/` - standalone HTML and Excel copies of those removed exploratory sections.
+- `EXPERIMENTAL_ANALYSES.md` - status, scope, reproduction notes, and validation warnings for thematic coding and framing.
 - `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` - spreadsheet exports.
 - `scripts/quality/` - PDF integrity, identity, completeness, word-count, and Form 20-F checks.
 - `data/processed/company-year-analysis.csv` - the 1,045-row company-year analytical dataset.
@@ -95,7 +98,7 @@ Incidence is calculated as:
 
 This measures disclosure-language frequency. It does not measure actual compliance expenditure, legal exposure, regulatory quality, or whether regulation is beneficial or burdensome. Differences can also reflect report length, reporting style, OCR quality, corporate structure, and sector-specific disclosure conventions.
 
-See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations. The exploratory histogram, theme, and frame sections are no longer part of the main report.
+See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations. The exploratory thematic and frame analyses are not part of the main report. Their unverified work-in-progress status is documented in [EXPERIMENTAL_ANALYSES.md](EXPERIMENTAL_ANALYSES.md).
 
 ## Tests and continuous integration
 

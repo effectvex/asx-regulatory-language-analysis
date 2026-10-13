@@ -27,6 +27,8 @@ $termPatterns = [ordered]@{
   legislation = '(?i)\blegislat(?:ion|ions|ive|ed)\b'
 }
 
+# EXPERIMENTAL WORK IN PROGRESS: the theme/frame rules and their outputs have
+# not been verified by a person and are excluded from the main dashboard.
 $themePatterns = [ordered]@{
   'Compliance and governance' = '(?i)\b(compliance|governance|ethic|conduct|control framework|internal control|code of conduct|anti[- ]bribery|whistleblow)\w*\b'
   'Regulatory change and uncertainty' = '(?i)\b(regulatory change|regulatory reform|new legislation|proposed legislation|evolving regulation|changing regulation|regulatory environment|policy change|law reform)\b'
