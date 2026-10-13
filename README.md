@@ -2,7 +2,7 @@
 
 Reproducible code and derived data for the 2015–2025 analysis of regulatory language in 1,045 annual reports from 95 companies in the retained ASX200 continuity panel.
 
-The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It also codes the surrounding passages by theme and frame, produces sector and company comparisons, audits document quality, and includes an optional FinBERT sentiment workflow.
+The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It also codes the surrounding passages by theme and frame, produces sector and company comparisons, and audits document quality.
 
 ## What is included
 
@@ -10,7 +10,6 @@ The repository measures how frequently six regulatory-language families occur, n
 - `scripts/generate-html-report.ps1` — self-contained interactive HTML report generator.
 - `scripts/process-dashboard-data.ps1` — graph-ready annual, sector, company, histogram, and revenue datasets.
 - `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` — spreadsheet exports.
-- `scripts/sentiment/` — FinBERT passage-level sentiment analysis.
 - `scripts/quality/` — PDF integrity, identity, completeness, word-count, and Form 20-F checks.
 - `data/processed/company-year-analysis.csv` — the 1,045-row company-year analytical dataset.
 - `data/intermediate/` — eight reproducible extraction shards used by the report generator.
@@ -46,7 +45,7 @@ Requirements:
 
 - PowerShell 7 or Windows PowerShell 5.1
 - [Poppler](https://poppler.freedesktop.org/) commands `pdftotext` and `pdfinfo` available on `PATH`
-- Python 3.10+ for spreadsheet and FinBERT utilities
+- Python 3.10+ for the spreadsheet utility
 - Microsoft Excel on Windows only for the COM-based `export-excel.ps1`
 
 Install Python dependencies:
@@ -95,5 +94,5 @@ The analytical panel contains 95 retained companies with complete 2015–2025 co
 
 ## License
 
-No open-source licence has yet been applied. The code is publicly viewable, but reuse remains subject to the repository owner's copyright unless a licence is added later. Third-party annual reports and the FinBERT model have their own terms.
+No open-source licence has yet been applied. The code is publicly viewable, but reuse remains subject to the repository owner's copyright unless a licence is added later. Third-party annual reports have their own terms.
 

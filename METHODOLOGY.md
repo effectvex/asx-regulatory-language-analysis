@@ -45,10 +45,6 @@ Each retained passage receives one frame using an ordered rule set:
 
 The frame rules are deterministic dictionaries, not a supervised classifier. They provide a consistent descriptive categorization but cannot capture every contextual nuance.
 
-## FinBERT extension
-
-The optional sentiment analysis selects sentences containing regulatory cues and applies `ProsusAI/finbert` at sentence level. Net sentiment is `(positive − negative) / classified passages`. FinBERT was trained for financial sentiment rather than regulatory-burden framing, so these results should be treated as exploratory and should not replace manual validation.
-
 ## Quality controls
 
 The quality scripts test PDF signatures and trailers, Poppler readability, page counts, text-extraction volume, company identity, reporting-year evidence, financial-statement language, duplicate hashes, and Form 20-F indicators. Low extracted-word counts were reviewed because they can signal image-only, partial, or incorrect documents.
