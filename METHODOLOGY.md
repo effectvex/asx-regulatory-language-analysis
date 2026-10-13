@@ -16,9 +16,9 @@ This transparent approach does not resolve word sense. For example, a "capital r
 
 The quality scripts test PDF signatures and trailers, Poppler readability, page counts, text-extraction volume, company identity, reporting-year evidence, financial-statement language, duplicate hashes, and Form 20-F indicators. Low extracted-word counts were reviewed because they can signal image-only, partial, or incorrect documents.
 
-## Removed exploratory analyses
+## Supplementary analysis
 
-The histogram, thematic coding, and frame analysis were removed from the main dashboard. Their final results can be exported with `scripts/archive-removed-sections.py`; they are not part of the retained analytical claims.
+The thematic coding and frame analysis are provided separately in `supplementary-analysis/`. They are not part of the principal incidence results.
 
 ### Experimental thematic coding
 
@@ -26,7 +26,7 @@ Retained passages can receive multiple dictionary-based themes covering governan
 
 ### Experimental framing
 
-Retained passages receive one frame from an ordered dictionary: cost or challenge, transition or anticipation, opportunity or legitimacy, obligation or control, or descriptive or neutral. Because the rules are ordered, an earlier match takes priority. The framing code and archived outputs are work in progress. Neither has been verified by a person, and no manual inter-coder validation has been completed.
+Retained passages receive one frame from an ordered dictionary: cost or challenge, transition or anticipation, opportunity or legitimacy, obligation or control, or descriptive or neutral. Because the rules are ordered, an earlier match takes priority. The framing code and outputs are work in progress. Neither has been verified by a person, and no manual inter-coder validation has been completed.
 
 ## Important limitations
 
