@@ -1,0 +1,99 @@
+# ASX regulatory-language analysis
+
+Reproducible code and derived data for the 2015–2025 analysis of regulatory language in 1,045 annual reports from 95 companies in the retained ASX200 continuity panel.
+
+The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It also codes the surrounding passages by theme and frame, produces sector and company comparisons, audits document quality, and includes an optional FinBERT sentiment workflow.
+
+## What is included
+
+- `scripts/extract-regulatory-language.ps1` — PDF-to-text extraction, word counting, six-term incidence, thematic coding, and frame coding.
+- `scripts/generate-html-report.ps1` — self-contained interactive HTML report generator.
+- `scripts/process-dashboard-data.ps1` — graph-ready annual, sector, company, histogram, and revenue datasets.
+- `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` — spreadsheet exports.
+- `scripts/sentiment/` — FinBERT passage-level sentiment analysis.
+- `scripts/quality/` — PDF integrity, identity, completeness, word-count, and Form 20-F checks.
+- `data/processed/company-year-analysis.csv` — the 1,045-row company-year analytical dataset.
+- `data/intermediate/` — eight reproducible extraction shards used by the report generator.
+- `data/graph-data/` — graph-ready outputs used to cross-check the dashboard.
+- `data/manifests/` — company-panel and sector metadata.
+
+Annual-report PDFs are intentionally excluded. They remain subject to their publishers' rights and can be placed locally in `annual-reports/` using this structure:
+
+```text
+annual-reports/
+  CBA - Commonwealth Bank/
+    2015 - Annual Report.pdf
+    ...
+    2025 - Annual Report.pdf
+```
+
+## Six tracked term families
+
+The primary incidence measure is the combined count of:
+
+1. `regulation`, `regulations`, `regulatory`, `regulator`, and `regulators`
+2. `compliance`, `compliances`, and `compliant`
+3. `burden` and `burdens`
+4. `requirement` and `requirements`
+5. `regulator` and `regulators`
+6. `legislation`, `legislations`, `legislative`, and `legislated`
+
+The exact regular expressions are in `scripts/extract-regulatory-language.ps1`. The first family intentionally includes the regulator forms while the separately reported `regulator` family also counts them; consequently, the six-family aggregate follows the original dashboard specification and is not a count of mutually exclusive tokens.
+
+## Reproduce the analysis
+
+Requirements:
+
+- PowerShell 7 or Windows PowerShell 5.1
+- [Poppler](https://poppler.freedesktop.org/) commands `pdftotext` and `pdfinfo` available on `PATH`
+- Python 3.10+ for spreadsheet and FinBERT utilities
+- Microsoft Excel on Windows only for the COM-based `export-excel.ps1`
+
+Install Python dependencies:
+
+```powershell
+python -m pip install -r requirements.txt
+```
+
+Extract the eight shards from locally supplied annual reports:
+
+```powershell
+0..7 | ForEach-Object {
+  ./scripts/extract-regulatory-language.ps1 -Shard $_ -Shards 8
+}
+```
+
+Generate the interactive HTML report:
+
+```powershell
+./scripts/generate-html-report.ps1
+```
+
+Regenerate graph-ready datasets from the checked-in company-year table:
+
+```powershell
+./scripts/process-dashboard-data.ps1
+```
+
+The checked-in intermediate and processed data allow the aggregation logic to be inspected without redistributing the PDFs. To rebuild extraction results from source, users must obtain the annual reports separately.
+
+## Interpretation
+
+Incidence is calculated as:
+
+```text
+100,000 × tracked-term occurrences ÷ extracted words
+```
+
+This measures disclosure-language frequency. It does not measure actual compliance expenditure, legal exposure, regulatory quality, or whether regulation is beneficial or burdensome. Differences can also reflect report length, reporting style, OCR quality, corporate structure, and sector-specific disclosure conventions.
+
+See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations.
+
+## Data provenance
+
+The analytical panel contains 95 retained companies with complete 2015–2025 coverage, giving 1,045 company-year observations. Annual reports were obtained from company investor-relations sites and official filing sources, then subjected to structural and text-extraction checks. The repository does not claim that the retained panel reproduces the membership of a published ASX index at every historical date.
+
+## License
+
+No open-source licence has yet been applied. The code is publicly viewable, but reuse remains subject to the repository owner's copyright unless a licence is added later. Third-party annual reports and the FinBERT model have their own terms.
+

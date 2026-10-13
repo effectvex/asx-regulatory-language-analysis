@@ -1,0 +1,477 @@
+﻿[
+    {
+        "Ticker":  "AGL",
+        "Name":  "AGL Energy",
+        "DirName":  "AGL - AGL Energy"
+    },
+    {
+        "Ticker":  "AIA",
+        "Name":  "Auckland International Airport",
+        "DirName":  "AIA - Auckland International Airport"
+    },
+    {
+        "Ticker":  "ALD",
+        "Name":  "Ampol (formerly Caltex Australia)",
+        "DirName":  "ALD - Ampol (formerly Caltex Australia)"
+    },
+    {
+        "Ticker":  "ALL",
+        "Name":  "Aristocrat Leisure",
+        "DirName":  "ALL - Aristocrat Leisure"
+    },
+    {
+        "Ticker":  "ALQ",
+        "Name":  "ALS Ltd",
+        "DirName":  "ALQ - ALS Ltd"
+    },
+    {
+        "Ticker":  "AMC",
+        "Name":  "Amcor",
+        "DirName":  "AMC - Amcor"
+    },
+    {
+        "Ticker":  "AMP",
+        "Name":  "AMP",
+        "DirName":  "AMP - AMP"
+    },
+    {
+        "Ticker":  "ANN",
+        "Name":  "Ansell",
+        "DirName":  "ANN - Ansell"
+    },
+    {
+        "Ticker":  "ANZ",
+        "Name":  "ANZ Group",
+        "DirName":  "ANZ - ANZ Group"
+    },
+    {
+        "Ticker":  "APA",
+        "Name":  "APA Group",
+        "DirName":  "APA - APA Group"
+    },
+    {
+        "Ticker":  "ASX",
+        "Name":  "ASX",
+        "DirName":  "ASX - ASX"
+    },
+    {
+        "Ticker":  "AZJ",
+        "Name":  "Aurizon",
+        "DirName":  "AZJ - Aurizon"
+    },
+    {
+        "Ticker":  "BEN",
+        "Name":  "Bendigo and Adelaide Bank",
+        "DirName":  "BEN - Bendigo and Adelaide Bank"
+    },
+    {
+        "Ticker":  "BGA",
+        "Name":  "Bega Cheese Limited",
+        "DirName":  "BGA - Bega Cheese Limited"
+    },
+    {
+        "Ticker":  "BHP",
+        "Name":  "BHP",
+        "DirName":  "BHP - BHP"
+    },
+    {
+        "Ticker":  "BOQ",
+        "Name":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland"
+    },
+    {
+        "Ticker":  "BPT",
+        "Name":  "Beach Energy Limited",
+        "DirName":  "BPT - Beach Energy Limited"
+    },
+    {
+        "Ticker":  "BRG",
+        "Name":  "Breville Group Limited",
+        "DirName":  "BRG - Breville Group Limited"
+    },
+    {
+        "Ticker":  "BSL",
+        "Name":  "BlueScope Steel",
+        "DirName":  "BSL - BlueScope Steel"
+    },
+    {
+        "Ticker":  "BWP",
+        "Name":  "BWP Trust Ord Units",
+        "DirName":  "BWP - BWP Trust Ord Units"
+    },
+    {
+        "Ticker":  "BXB",
+        "Name":  "Brambles",
+        "DirName":  "BXB - Brambles"
+    },
+    {
+        "Ticker":  "CAR",
+        "Name":  "CAR Group",
+        "DirName":  "CAR - CAR Group"
+    },
+    {
+        "Ticker":  "CBA",
+        "Name":  "Commonwealth Bank",
+        "DirName":  "CBA - Commonwealth Bank"
+    },
+    {
+        "Ticker":  "CGF",
+        "Name":  "Challenger",
+        "DirName":  "CGF - Challenger"
+    },
+    {
+        "Ticker":  "CHC",
+        "Name":  "Charter Hall Group Forus",
+        "DirName":  "CHC - Charter Hall Group Forus"
+    },
+    {
+        "Ticker":  "CNU",
+        "Name":  "Chorus Limited NZ",
+        "DirName":  "CNU - Chorus Limited NZ"
+    },
+    {
+        "Ticker":  "COH",
+        "Name":  "Cochlear",
+        "DirName":  "COH - Cochlear"
+    },
+    {
+        "Ticker":  "CPU",
+        "Name":  "Computershare",
+        "DirName":  "CPU - Computershare"
+    },
+    {
+        "Ticker":  "CQR",
+        "Name":  "Charter Hall Retail Reit Unit",
+        "DirName":  "CQR - Charter Hall Retail Reit Unit"
+    },
+    {
+        "Ticker":  "CSL",
+        "Name":  "CSL",
+        "DirName":  "CSL - CSL"
+    },
+    {
+        "Ticker":  "DOW",
+        "Name":  "Downer Edi Limited",
+        "DirName":  "DOW - Downer Edi Limited"
+    },
+    {
+        "Ticker":  "DXS",
+        "Name":  "Dexus",
+        "DirName":  "DXS - Dexus"
+    },
+    {
+        "Ticker":  "EVN",
+        "Name":  "Evolution Mining Limited",
+        "DirName":  "EVN - Evolution Mining Limited"
+    },
+    {
+        "Ticker":  "FBU",
+        "Name":  "Fletcher Building",
+        "DirName":  "FBU - Fletcher Building"
+    },
+    {
+        "Ticker":  "FLT",
+        "Name":  "Flight Centre Travel Group Limited",
+        "DirName":  "FLT - Flight Centre Travel Group Limited"
+    },
+    {
+        "Ticker":  "FMG",
+        "Name":  "Fortescue",
+        "DirName":  "FMG - Fortescue"
+    },
+    {
+        "Ticker":  "GMG",
+        "Name":  "Goodman Group",
+        "DirName":  "GMG - Goodman Group"
+    },
+    {
+        "Ticker":  "GPT",
+        "Name":  "GPT Group",
+        "DirName":  "GPT - GPT Group"
+    },
+    {
+        "Ticker":  "GUD",
+        "Name":  "GUD Holdings Ltd",
+        "DirName":  "GUD - GUD Holdings Ltd"
+    },
+    {
+        "Ticker":  "HVN",
+        "Name":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited"
+    },
+    {
+        "Ticker":  "IAG",
+        "Name":  "Insurance Australia Group",
+        "DirName":  "IAG - Insurance Australia Group"
+    },
+    {
+        "Ticker":  "IGO",
+        "Name":  "Independence Group NL",
+        "DirName":  "IGO - Independence Group NL"
+    },
+    {
+        "Ticker":  "ILU",
+        "Name":  "Iluka Resources Limited",
+        "DirName":  "ILU - Iluka Resources Limited"
+    },
+    {
+        "Ticker":  "IPL",
+        "Name":  "Incitec Pivot",
+        "DirName":  "IPL - Incitec Pivot"
+    },
+    {
+        "Ticker":  "JBH",
+        "Name":  "JB Hi-fi Limited",
+        "DirName":  "JBH - JB Hi-fi Limited"
+    },
+    {
+        "Ticker":  "JHX",
+        "Name":  "James Hardie",
+        "DirName":  "JHX - James Hardie"
+    },
+    {
+        "Ticker":  "LLC",
+        "Name":  "Lendlease",
+        "DirName":  "LLC - Lendlease"
+    },
+    {
+        "Ticker":  "MGR",
+        "Name":  "Mirvac",
+        "DirName":  "MGR - Mirvac"
+    },
+    {
+        "Ticker":  "MIN",
+        "Name":  "Mineral Resources Limited",
+        "DirName":  "MIN - Mineral Resources Limited"
+    },
+    {
+        "Ticker":  "MPL",
+        "Name":  "Medibank Private Limited",
+        "DirName":  "MPL - Medibank Private Limited"
+    },
+    {
+        "Ticker":  "MQG",
+        "Name":  "Macquarie Group",
+        "DirName":  "MQG - Macquarie Group"
+    },
+    {
+        "Ticker":  "MTS",
+        "Name":  "Metcash Limited",
+        "DirName":  "MTS - Metcash Limited"
+    },
+    {
+        "Ticker":  "NAB",
+        "Name":  "National Australia Bank",
+        "DirName":  "NAB - National Australia Bank"
+    },
+    {
+        "Ticker":  "NEC",
+        "Name":  "Nine Entertainment Co. Holdings Limited",
+        "DirName":  "NEC - Nine Entertainment Co. Holdings Limited"
+    },
+    {
+        "Ticker":  "NEM",
+        "Name":  "Newmont",
+        "DirName":  "NEM - Newmont"
+    },
+    {
+        "Ticker":  "NST",
+        "Name":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD"
+    },
+    {
+        "Ticker":  "NWS",
+        "Name":  "News Corporation. B Voting",
+        "DirName":  "NWS - News Corporation. B Voting"
+    },
+    {
+        "Ticker":  "ORA",
+        "Name":  "Orora Limited",
+        "DirName":  "ORA - Orora Limited"
+    },
+    {
+        "Ticker":  "ORG",
+        "Name":  "Origin Energy",
+        "DirName":  "ORG - Origin Energy"
+    },
+    {
+        "Ticker":  "ORI",
+        "Name":  "Orica",
+        "DirName":  "ORI - Orica"
+    },
+    {
+        "Ticker":  "PMV",
+        "Name":  "Premier Investments Limited",
+        "DirName":  "PMV - Premier Investments Limited"
+    },
+    {
+        "Ticker":  "PTM",
+        "Name":  "Platinum Asset Management",
+        "DirName":  "PTM - Platinum Asset Management"
+    },
+    {
+        "Ticker":  "QAN",
+        "Name":  "Qantas",
+        "DirName":  "QAN - Qantas"
+    },
+    {
+        "Ticker":  "QBE",
+        "Name":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance"
+    },
+    {
+        "Ticker":  "QUB",
+        "Name":  "Qube Holdings Limited",
+        "DirName":  "QUB - Qube Holdings Limited"
+    },
+    {
+        "Ticker":  "REA",
+        "Name":  "REA Group",
+        "DirName":  "REA - REA Group"
+    },
+    {
+        "Ticker":  "RHC",
+        "Name":  "Ramsay Health Care",
+        "DirName":  "RHC - Ramsay Health Care"
+    },
+    {
+        "Ticker":  "RIO",
+        "Name":  "Rio Tinto",
+        "DirName":  "RIO - Rio Tinto"
+    },
+    {
+        "Ticker":  "RMD",
+        "Name":  "ResMed",
+        "DirName":  "RMD - ResMed"
+    },
+    {
+        "Ticker":  "RRL",
+        "Name":  "Regis Resources Limited",
+        "DirName":  "RRL - Regis Resources Limited"
+    },
+    {
+        "Ticker":  "SCG",
+        "Name":  "Scentre Group",
+        "DirName":  "SCG - Scentre Group"
+    },
+    {
+        "Ticker":  "SCP",
+        "Name":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled"
+    },
+    {
+        "Ticker":  "SDF",
+        "Name":  "Steadfast Group Limited",
+        "DirName":  "SDF - Steadfast Group Limited"
+    },
+    {
+        "Ticker":  "SEK",
+        "Name":  "SEEK",
+        "DirName":  "SEK - SEEK"
+    },
+    {
+        "Ticker":  "SGM",
+        "Name":  "Sims Metal Management Limited",
+        "DirName":  "SGM - Sims Metal Management Limited"
+    },
+    {
+        "Ticker":  "SGP",
+        "Name":  "Stockland",
+        "DirName":  "SGP - Stockland"
+    },
+    {
+        "Ticker":  "SHL",
+        "Name":  "Sonic Healthcare",
+        "DirName":  "SHL - Sonic Healthcare"
+    },
+    {
+        "Ticker":  "SKC",
+        "Name":  "SkyCity Entertainment",
+        "DirName":  "SKC - SkyCity Entertainment"
+    },
+    {
+        "Ticker":  "SPK",
+        "Name":  "Spark New Zealand",
+        "DirName":  "SPK - Spark New Zealand"
+    },
+    {
+        "Ticker":  "STO",
+        "Name":  "Santos",
+        "DirName":  "STO - Santos"
+    },
+    {
+        "Ticker":  "SUL",
+        "Name":  "Super Retail Group Limited",
+        "DirName":  "SUL - Super Retail Group Limited"
+    },
+    {
+        "Ticker":  "SUN",
+        "Name":  "Suncorp",
+        "DirName":  "SUN - Suncorp"
+    },
+    {
+        "Ticker":  "SVW",
+        "Name":  "Seven Group Holdings Limited",
+        "DirName":  "SVW - Seven Group Holdings Limited"
+    },
+    {
+        "Ticker":  "TAH",
+        "Name":  "Tabcorp Holdings Limited",
+        "DirName":  "TAH - Tabcorp Holdings Limited"
+    },
+    {
+        "Ticker":  "TCL",
+        "Name":  "Transurban",
+        "DirName":  "TCL - Transurban"
+    },
+    {
+        "Ticker":  "TLS",
+        "Name":  "Telstra",
+        "DirName":  "TLS - Telstra"
+    },
+    {
+        "Ticker":  "TNE",
+        "Name":  "Technology One Limited",
+        "DirName":  "TNE - Technology One Limited"
+    },
+    {
+        "Ticker":  "TPM",
+        "Name":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited"
+    },
+    {
+        "Ticker":  "TWE",
+        "Name":  "Treasury Wine Estates",
+        "DirName":  "TWE - Treasury Wine Estates"
+    },
+    {
+        "Ticker":  "WBC",
+        "Name":  "Westpac",
+        "DirName":  "WBC - Westpac"
+    },
+    {
+        "Ticker":  "WDS",
+        "Name":  "Woodside Energy",
+        "DirName":  "WDS - Woodside Energy"
+    },
+    {
+        "Ticker":  "WES",
+        "Name":  "Wesfarmers",
+        "DirName":  "WES - Wesfarmers"
+    },
+    {
+        "Ticker":  "WOR",
+        "Name":  "WorleyParsons Limited",
+        "DirName":  "WOR - WorleyParsons Limited"
+    },
+    {
+        "Ticker":  "WOW",
+        "Name":  "Woolworths Group",
+        "DirName":  "WOW - Woolworths Group"
+    },
+    {
+        "Ticker":  "XRO",
+        "Name":  "Xero",
+        "DirName":  "XRO - Xero"
+    }
+]

@@ -1,0 +1,237 @@
+﻿[
+    {
+        "Ticker":  "ALL",
+        "Name":  "Aristocrat Leisure",
+        "DirName":  "ALL - Aristocrat Leisure"
+    },
+    {
+        "Ticker":  "CPU",
+        "Name":  "Computershare",
+        "DirName":  "CPU - Computershare"
+    },
+    {
+        "Ticker":  "JHX",
+        "Name":  "James Hardie",
+        "DirName":  "JHX - James Hardie"
+    },
+    {
+        "Ticker":  "ORG",
+        "Name":  "Origin Energy",
+        "DirName":  "ORG - Origin Energy"
+    },
+    {
+        "Ticker":  "SCG",
+        "Name":  "Scentre Group",
+        "DirName":  "SCG - Scentre Group"
+    },
+    {
+        "Ticker":  "TLS",
+        "Name":  "Telstra",
+        "DirName":  "TLS - Telstra"
+    },
+    {
+        "Ticker":  "AMC",
+        "Name":  "Amcor",
+        "DirName":  "AMC - Amcor"
+    },
+    {
+        "Ticker":  "CSL",
+        "Name":  "CSL",
+        "DirName":  "CSL - CSL"
+    },
+    {
+        "Ticker":  "LYC",
+        "Name":  "Lynas",
+        "DirName":  "LYC - Lynas"
+    },
+    {
+        "Ticker":  "PME",
+        "Name":  "Pro Medicus",
+        "DirName":  "PME - Pro Medicus"
+    },
+    {
+        "Ticker":  "SGH",
+        "Name":  "Seven Group Holdings",
+        "DirName":  "SGH - Seven Group Holdings"
+    },
+    {
+        "Ticker":  "VAS",
+        "Name":  "Vanguard Australian Shares",
+        "DirName":  "VAS - Vanguard Australian Shares"
+    },
+    {
+        "Ticker":  "ANZ",
+        "Name":  "ANZ Bank",
+        "DirName":  "ANZ - ANZ Bank"
+    },
+    {
+        "Ticker":  "EVN",
+        "Name":  "Evolution Mining",
+        "DirName":  "EVN - Evolution Mining"
+    },
+    {
+        "Ticker":  "MPL",
+        "Name":  "Medibank",
+        "DirName":  "MPL - Medibank"
+    },
+    {
+        "Ticker":  "QAN",
+        "Name":  "Qantas",
+        "DirName":  "QAN - Qantas"
+    },
+    {
+        "Ticker":  "SGP",
+        "Name":  "Stockland",
+        "DirName":  "SGP - Stockland"
+    },
+    {
+        "Ticker":  "WBC",
+        "Name":  "Westpac",
+        "DirName":  "WBC - Westpac"
+    },
+    {
+        "Ticker":  "BHP",
+        "Name":  "BHP",
+        "DirName":  "BHP - BHP"
+    },
+    {
+        "Ticker":  "FMG",
+        "Name":  "Fortescue",
+        "DirName":  "FMG - Fortescue"
+    },
+    {
+        "Ticker":  "MQG",
+        "Name":  "Macquarie Group",
+        "DirName":  "MQG - Macquarie Group"
+    },
+    {
+        "Ticker":  "QBE",
+        "Name":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance"
+    },
+    {
+        "Ticker":  "SIG",
+        "Name":  "Sigma Healthcare",
+        "DirName":  "SIG - Sigma Healthcare"
+    },
+    {
+        "Ticker":  "WDS",
+        "Name":  "Woodside Energy",
+        "DirName":  "WDS - Woodside Energy"
+    },
+    {
+        "Ticker":  "BXB",
+        "Name":  "Brambles",
+        "DirName":  "BXB - Brambles"
+    },
+    {
+        "Ticker":  "FPH",
+        "Name":  "Fisher \u0026 Paykel Healthcare",
+        "DirName":  "FPH - Fisher \u0026 Paykel Healthcare"
+    },
+    {
+        "Ticker":  "NAB",
+        "Name":  "National Australia Bank",
+        "DirName":  "NAB - National Australia Bank"
+    },
+    {
+        "Ticker":  "REA",
+        "Name":  "REA Group",
+        "DirName":  "REA - REA Group"
+    },
+    {
+        "Ticker":  "SOL",
+        "Name":  "Soul Patts",
+        "DirName":  "SOL - Soul Patts"
+    },
+    {
+        "Ticker":  "WES",
+        "Name":  "Wesfarmers",
+        "DirName":  "WES - Wesfarmers"
+    },
+    {
+        "Ticker":  "CAR",
+        "Name":  "CAR Group",
+        "DirName":  "CAR - CAR Group"
+    },
+    {
+        "Ticker":  "GMG",
+        "Name":  "Goodman Group",
+        "DirName":  "GMG - Goodman Group"
+    },
+    {
+        "Ticker":  "NEM",
+        "Name":  "Newmont",
+        "DirName":  "NEM - Newmont"
+    },
+    {
+        "Ticker":  "RIO",
+        "Name":  "Rio Tinto",
+        "DirName":  "RIO - Rio Tinto"
+    },
+    {
+        "Ticker":  "STO",
+        "Name":  "Santos",
+        "DirName":  "STO - Santos"
+    },
+    {
+        "Ticker":  "WOW",
+        "Name":  "Woolworths",
+        "DirName":  "WOW - Woolworths"
+    },
+    {
+        "Ticker":  "CBA",
+        "Name":  "Commonwealth Bank",
+        "DirName":  "CBA - Commonwealth Bank"
+    },
+    {
+        "Ticker":  "IAG",
+        "Name":  "Insurance Australia Group",
+        "DirName":  "IAG - Insurance Australia Group"
+    },
+    {
+        "Ticker":  "NST",
+        "Name":  "Northern Star Resources",
+        "DirName":  "NST - Northern Star Resources"
+    },
+    {
+        "Ticker":  "RMD",
+        "Name":  "ResMed",
+        "DirName":  "RMD - ResMed"
+    },
+    {
+        "Ticker":  "SUN",
+        "Name":  "Suncorp",
+        "DirName":  "SUN - Suncorp"
+    },
+    {
+        "Ticker":  "XRO",
+        "Name":  "Xero",
+        "DirName":  "XRO - Xero"
+    },
+    {
+        "Ticker":  "COH",
+        "Name":  "Cochlear",
+        "DirName":  "COH - Cochlear"
+    },
+    {
+        "Ticker":  "JBH",
+        "Name":  "JB Hi-Fi",
+        "DirName":  "JBH - JB Hi-Fi"
+    },
+    {
+        "Ticker":  "NWS",
+        "Name":  "News Corp",
+        "DirName":  "NWS - News Corp"
+    },
+    {
+        "Ticker":  "S32",
+        "Name":  "South32",
+        "DirName":  "S32 - South32"
+    },
+    {
+        "Ticker":  "TCL",
+        "Name":  "Transurban",
+        "DirName":  "TCL - Transurban"
+    }
+]

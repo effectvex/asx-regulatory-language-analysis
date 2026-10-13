@@ -1,0 +1,16 @@
+# Annual reports are distributed separately and must never be committed here.
+annual-reports/**
+!annual-reports/.gitkeep
+*.pdf
+
+# Generated outputs and local environments
+output/**
+!output/.gitkeep
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+

@@ -1,0 +1,4358 @@
+[
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2015,
+        "Words":  41885,
+        "Coded":  124,
+        "Terms":  {
+                      "regulation":  15,
+                      "compliance":  26,
+                      "burden":  0,
+                      "requirement":  21,
+                      "regulator":  1,
+                      "legislation":  6
+                  },
+        "Themes":  {
+                       "Compliance and governance":  27,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  49,
+                       "Direct cost and resourcing":  38,
+                       "Systems, data and process implementation":  10,
+                       "Licensing, approvals and market access":  8,
+                       "Environmental and climate obligations":  5,
+                       "Financial, tax and prudential rules":  12,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  34,
+                       "Obligation or control":  46,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  32
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2016,
+        "Words":  46516,
+        "Coded":  142,
+        "Terms":  {
+                      "regulation":  17,
+                      "compliance":  33,
+                      "burden":  0,
+                      "requirement":  28,
+                      "regulator":  1,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  33,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  62,
+                       "Direct cost and resourcing":  41,
+                       "Systems, data and process implementation":  16,
+                       "Licensing, approvals and market access":  10,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  42,
+                       "Obligation or control":  53,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  36
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2017,
+        "Words":  50288,
+        "Coded":  167,
+        "Terms":  {
+                      "regulation":  22,
+                      "compliance":  30,
+                      "burden":  0,
+                      "requirement":  25,
+                      "regulator":  2,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  34,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  64,
+                       "Direct cost and resourcing":  56,
+                       "Systems, data and process implementation":  21,
+                       "Licensing, approvals and market access":  14,
+                       "Environmental and climate obligations":  13,
+                       "Financial, tax and prudential rules":  22,
+                       "Safety, quality and workforce obligations":  18,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  54,
+                       "Obligation or control":  52,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  9,
+                       "Descriptive or neutral":  42
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2018,
+        "Words":  43626,
+        "Coded":  175,
+        "Terms":  {
+                      "regulation":  29,
+                      "compliance":  38,
+                      "burden":  0,
+                      "requirement":  29,
+                      "regulator":  3,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  41,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  62,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  14,
+                       "Licensing, approvals and market access":  10,
+                       "Environmental and climate obligations":  16,
+                       "Financial, tax and prudential rules":  26,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  62,
+                       "Obligation or control":  56,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  8,
+                       "Descriptive or neutral":  42
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2019,
+        "Words":  45489,
+        "Coded":  170,
+        "Terms":  {
+                      "regulation":  26,
+                      "compliance":  39,
+                      "burden":  0,
+                      "requirement":  28,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  37,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  71,
+                       "Direct cost and resourcing":  52,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  8,
+                       "Environmental and climate obligations":  11,
+                       "Financial, tax and prudential rules":  22,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  57,
+                       "Obligation or control":  59,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  41
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2020,
+        "Words":  47129,
+        "Coded":  162,
+        "Terms":  {
+                      "regulation":  24,
+                      "compliance":  37,
+                      "burden":  0,
+                      "requirement":  26,
+                      "regulator":  4,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  37,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  63,
+                       "Direct cost and resourcing":  45,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  9,
+                       "Environmental and climate obligations":  18,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  58,
+                       "Obligation or control":  56,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  39
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2021,
+        "Words":  51758,
+        "Coded":  163,
+        "Terms":  {
+                      "regulation":  22,
+                      "compliance":  36,
+                      "burden":  0,
+                      "requirement":  34,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  40,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  68,
+                       "Direct cost and resourcing":  47,
+                       "Systems, data and process implementation":  20,
+                       "Licensing, approvals and market access":  10,
+                       "Environmental and climate obligations":  19,
+                       "Financial, tax and prudential rules":  18,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  58,
+                       "Obligation or control":  57,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  37
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2022,
+        "Words":  51524,
+        "Coded":  163,
+        "Terms":  {
+                      "regulation":  21,
+                      "compliance":  29,
+                      "burden":  0,
+                      "requirement":  35,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  34,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  72,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  22,
+                       "Licensing, approvals and market access":  12,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  19,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  8
+                   },
+        "Frames":  {
+                       "Cost or challenge":  62,
+                       "Obligation or control":  47,
+                       "Transition or anticipation":  4,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  45
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2023,
+        "Words":  50597,
+        "Coded":  173,
+        "Terms":  {
+                      "regulation":  25,
+                      "compliance":  33,
+                      "burden":  0,
+                      "requirement":  37,
+                      "regulator":  3,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  40,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  72,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  23,
+                       "Licensing, approvals and market access":  11,
+                       "Environmental and climate obligations":  16,
+                       "Financial, tax and prudential rules":  25,
+                       "Safety, quality and workforce obligations":  13,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  60,
+                       "Obligation or control":  57,
+                       "Transition or anticipation":  8,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  44
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2024,
+        "Words":  52262,
+        "Coded":  178,
+        "Terms":  {
+                      "regulation":  30,
+                      "compliance":  32,
+                      "burden":  0,
+                      "requirement":  43,
+                      "regulator":  3,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  40,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  83,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  24,
+                       "Licensing, approvals and market access":  14,
+                       "Environmental and climate obligations":  20,
+                       "Financial, tax and prudential rules":  23,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  59,
+                       "Obligation or control":  53,
+                       "Transition or anticipation":  12,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  50
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "ANN",
+        "Company":  "Ansell",
+        "DirName":  "ANN - Ansell",
+        "Year":  2025,
+        "Words":  52277,
+        "Coded":  185,
+        "Terms":  {
+                      "regulation":  27,
+                      "compliance":  38,
+                      "burden":  1,
+                      "requirement":  39,
+                      "regulator":  3,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  43,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  77,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  24,
+                       "Licensing, approvals and market access":  13,
+                       "Environmental and climate obligations":  17,
+                       "Financial, tax and prudential rules":  25,
+                       "Safety, quality and workforce obligations":  17,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  57,
+                       "Obligation or control":  62,
+                       "Transition or anticipation":  12,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  50
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2015,
+        "Words":  48810,
+        "Coded":  210,
+        "Terms":  {
+                      "regulation":  47,
+                      "compliance":  13,
+                      "burden":  0,
+                      "requirement":  38,
+                      "regulator":  2,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  19,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  56,
+                       "Direct cost and resourcing":  67,
+                       "Systems, data and process implementation":  22,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  5,
+                       "Financial, tax and prudential rules":  60,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  78,
+                       "Obligation or control":  54,
+                       "Transition or anticipation":  13,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  64
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2016,
+        "Words":  49882,
+        "Coded":  224,
+        "Terms":  {
+                      "regulation":  52,
+                      "compliance":  13,
+                      "burden":  0,
+                      "requirement":  39,
+                      "regulator":  3,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  22,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  75,
+                       "Direct cost and resourcing":  73,
+                       "Systems, data and process implementation":  17,
+                       "Licensing, approvals and market access":  22,
+                       "Environmental and climate obligations":  3,
+                       "Financial, tax and prudential rules":  61,
+                       "Safety, quality and workforce obligations":  22,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  89,
+                       "Obligation or control":  53,
+                       "Transition or anticipation":  15,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  66
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2017,
+        "Words":  56600,
+        "Coded":  277,
+        "Terms":  {
+                      "regulation":  73,
+                      "compliance":  17,
+                      "burden":  1,
+                      "requirement":  47,
+                      "regulator":  5,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  39,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  99,
+                       "Direct cost and resourcing":  86,
+                       "Systems, data and process implementation":  28,
+                       "Licensing, approvals and market access":  18,
+                       "Environmental and climate obligations":  7,
+                       "Financial, tax and prudential rules":  59,
+                       "Safety, quality and workforce obligations":  20,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  115,
+                       "Obligation or control":  65,
+                       "Transition or anticipation":  15,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  80
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2018,
+        "Words":  65148,
+        "Coded":  324,
+        "Terms":  {
+                      "regulation":  102,
+                      "compliance":  33,
+                      "burden":  2,
+                      "requirement":  58,
+                      "regulator":  10,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  52,
+                       "Regulatory change and uncertainty":  4,
+                       "Reporting, disclosure and assurance":  105,
+                       "Direct cost and resourcing":  107,
+                       "Systems, data and process implementation":  37,
+                       "Licensing, approvals and market access":  30,
+                       "Environmental and climate obligations":  10,
+                       "Financial, tax and prudential rules":  74,
+                       "Safety, quality and workforce obligations":  24,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  149,
+                       "Obligation or control":  77,
+                       "Transition or anticipation":  19,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  78
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2019,
+        "Words":  72808,
+        "Coded":  393,
+        "Terms":  {
+                      "regulation":  124,
+                      "compliance":  53,
+                      "burden":  1,
+                      "requirement":  79,
+                      "regulator":  18,
+                      "legislation":  17
+                  },
+        "Themes":  {
+                       "Compliance and governance":  72,
+                       "Regulatory change and uncertainty":  5,
+                       "Reporting, disclosure and assurance":  115,
+                       "Direct cost and resourcing":  107,
+                       "Systems, data and process implementation":  56,
+                       "Licensing, approvals and market access":  43,
+                       "Environmental and climate obligations":  17,
+                       "Financial, tax and prudential rules":  80,
+                       "Safety, quality and workforce obligations":  30,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  163,
+                       "Obligation or control":  100,
+                       "Transition or anticipation":  24,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  105
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2020,
+        "Words":  76359,
+        "Coded":  337,
+        "Terms":  {
+                      "regulation":  118,
+                      "compliance":  35,
+                      "burden":  0,
+                      "requirement":  53,
+                      "regulator":  17,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  54,
+                       "Regulatory change and uncertainty":  5,
+                       "Reporting, disclosure and assurance":  100,
+                       "Direct cost and resourcing":  85,
+                       "Systems, data and process implementation":  47,
+                       "Licensing, approvals and market access":  33,
+                       "Environmental and climate obligations":  20,
+                       "Financial, tax and prudential rules":  68,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  133,
+                       "Obligation or control":  90,
+                       "Transition or anticipation":  21,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  89
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2021,
+        "Words":  78476,
+        "Coded":  313,
+        "Terms":  {
+                      "regulation":  88,
+                      "compliance":  39,
+                      "burden":  0,
+                      "requirement":  51,
+                      "regulator":  15,
+                      "legislation":  12
+                  },
+        "Themes":  {
+                       "Compliance and governance":  62,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  104,
+                       "Direct cost and resourcing":  72,
+                       "Systems, data and process implementation":  47,
+                       "Licensing, approvals and market access":  30,
+                       "Environmental and climate obligations":  25,
+                       "Financial, tax and prudential rules":  63,
+                       "Safety, quality and workforce obligations":  28,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  118,
+                       "Obligation or control":  93,
+                       "Transition or anticipation":  13,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  87
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2022,
+        "Words":  81301,
+        "Coded":  332,
+        "Terms":  {
+                      "regulation":  96,
+                      "compliance":  43,
+                      "burden":  0,
+                      "requirement":  54,
+                      "regulator":  21,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  73,
+                       "Regulatory change and uncertainty":  5,
+                       "Reporting, disclosure and assurance":  95,
+                       "Direct cost and resourcing":  71,
+                       "Systems, data and process implementation":  42,
+                       "Licensing, approvals and market access":  42,
+                       "Environmental and climate obligations":  23,
+                       "Financial, tax and prudential rules":  72,
+                       "Safety, quality and workforce obligations":  21,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  118,
+                       "Obligation or control":  96,
+                       "Transition or anticipation":  15,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  101
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2023,
+        "Words":  86442,
+        "Coded":  361,
+        "Terms":  {
+                      "regulation":  102,
+                      "compliance":  60,
+                      "burden":  3,
+                      "requirement":  50,
+                      "regulator":  30,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  81,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  79,
+                       "Direct cost and resourcing":  67,
+                       "Systems, data and process implementation":  60,
+                       "Licensing, approvals and market access":  44,
+                       "Environmental and climate obligations":  23,
+                       "Financial, tax and prudential rules":  76,
+                       "Safety, quality and workforce obligations":  21,
+                       "Privacy, cyber and data protection":  24
+                   },
+        "Frames":  {
+                       "Cost or challenge":  126,
+                       "Obligation or control":  101,
+                       "Transition or anticipation":  13,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  120
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2024,
+        "Words":  94261,
+        "Coded":  401,
+        "Terms":  {
+                      "regulation":  106,
+                      "compliance":  74,
+                      "burden":  3,
+                      "requirement":  70,
+                      "regulator":  32,
+                      "legislation":  15
+                  },
+        "Themes":  {
+                       "Compliance and governance":  91,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  118,
+                       "Direct cost and resourcing":  74,
+                       "Systems, data and process implementation":  69,
+                       "Licensing, approvals and market access":  34,
+                       "Environmental and climate obligations":  47,
+                       "Financial, tax and prudential rules":  74,
+                       "Safety, quality and workforce obligations":  29,
+                       "Privacy, cyber and data protection":  22
+                   },
+        "Frames":  {
+                       "Cost or challenge":  147,
+                       "Obligation or control":  110,
+                       "Transition or anticipation":  21,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  122
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "BOQ",
+        "Company":  "Bank of Queensland",
+        "DirName":  "BOQ - Bank of Queensland",
+        "Year":  2025,
+        "Words":  87305,
+        "Coded":  383,
+        "Terms":  {
+                      "regulation":  101,
+                      "compliance":  66,
+                      "burden":  0,
+                      "requirement":  72,
+                      "regulator":  32,
+                      "legislation":  14
+                  },
+        "Themes":  {
+                       "Compliance and governance":  78,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  104,
+                       "Direct cost and resourcing":  64,
+                       "Systems, data and process implementation":  65,
+                       "Licensing, approvals and market access":  31,
+                       "Environmental and climate obligations":  47,
+                       "Financial, tax and prudential rules":  73,
+                       "Safety, quality and workforce obligations":  26,
+                       "Privacy, cyber and data protection":  13
+                   },
+        "Frames":  {
+                       "Cost or challenge":  129,
+                       "Obligation or control":  114,
+                       "Transition or anticipation":  22,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  115
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2015,
+        "Words":  45096,
+        "Coded":  0,
+        "Terms":  {
+                      "regulation":  51,
+                      "compliance":  14,
+                      "burden":  0,
+                      "requirement":  44,
+                      "regulator":  0,
+                      "legislation":  6
+                  },
+        "Themes":  {
+                       "Compliance and governance":  0,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  0,
+                       "Direct cost and resourcing":  0,
+                       "Systems, data and process implementation":  0,
+                       "Licensing, approvals and market access":  0,
+                       "Environmental and climate obligations":  0,
+                       "Financial, tax and prudential rules":  0,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  0,
+                       "Obligation or control":  0,
+                       "Transition or anticipation":  0,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  0
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2016,
+        "Words":  48461,
+        "Coded":  206,
+        "Terms":  {
+                      "regulation":  54,
+                      "compliance":  22,
+                      "burden":  0,
+                      "requirement":  48,
+                      "regulator":  1,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  26,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  54,
+                       "Direct cost and resourcing":  49,
+                       "Systems, data and process implementation":  19,
+                       "Licensing, approvals and market access":  17,
+                       "Environmental and climate obligations":  9,
+                       "Financial, tax and prudential rules":  43,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  105,
+                       "Obligation or control":  47,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  43
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2017,
+        "Words":  53655,
+        "Coded":  237,
+        "Terms":  {
+                      "regulation":  60,
+                      "compliance":  30,
+                      "burden":  0,
+                      "requirement":  48,
+                      "regulator":  2,
+                      "legislation":  6
+                  },
+        "Themes":  {
+                       "Compliance and governance":  34,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  77,
+                       "Direct cost and resourcing":  51,
+                       "Systems, data and process implementation":  21,
+                       "Licensing, approvals and market access":  23,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  45,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  118,
+                       "Obligation or control":  63,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  46
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2018,
+        "Words":  56002,
+        "Coded":  235,
+        "Terms":  {
+                      "regulation":  63,
+                      "compliance":  25,
+                      "burden":  0,
+                      "requirement":  48,
+                      "regulator":  3,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  33,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  62,
+                       "Direct cost and resourcing":  58,
+                       "Systems, data and process implementation":  28,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  12,
+                       "Financial, tax and prudential rules":  49,
+                       "Safety, quality and workforce obligations":  20,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  127,
+                       "Obligation or control":  47,
+                       "Transition or anticipation":  15,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  45
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2019,
+        "Words":  59274,
+        "Coded":  242,
+        "Terms":  {
+                      "regulation":  58,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  50,
+                      "regulator":  2,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  26,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  68,
+                       "Direct cost and resourcing":  56,
+                       "Systems, data and process implementation":  25,
+                       "Licensing, approvals and market access":  29,
+                       "Environmental and climate obligations":  11,
+                       "Financial, tax and prudential rules":  50,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  128,
+                       "Obligation or control":  54,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  43
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2020,
+        "Words":  74367,
+        "Coded":  219,
+        "Terms":  {
+                      "regulation":  55,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  51,
+                      "regulator":  3,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  24,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  45,
+                       "Direct cost and resourcing":  44,
+                       "Systems, data and process implementation":  22,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  10,
+                       "Financial, tax and prudential rules":  37,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  103,
+                       "Obligation or control":  58,
+                       "Transition or anticipation":  11,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  46
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2021,
+        "Words":  64749,
+        "Coded":  243,
+        "Terms":  {
+                      "regulation":  58,
+                      "compliance":  15,
+                      "burden":  0,
+                      "requirement":  51,
+                      "regulator":  2,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  22,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  70,
+                       "Direct cost and resourcing":  66,
+                       "Systems, data and process implementation":  24,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  11,
+                       "Financial, tax and prudential rules":  49,
+                       "Safety, quality and workforce obligations":  11,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  141,
+                       "Obligation or control":  40,
+                       "Transition or anticipation":  14,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  48
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2022,
+        "Words":  68346,
+        "Coded":  306,
+        "Terms":  {
+                      "regulation":  125,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  100,
+                      "regulator":  14,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  50,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  75,
+                       "Direct cost and resourcing":  70,
+                       "Systems, data and process implementation":  29,
+                       "Licensing, approvals and market access":  21,
+                       "Environmental and climate obligations":  36,
+                       "Financial, tax and prudential rules":  67,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  160,
+                       "Obligation or control":  68,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  54
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2023,
+        "Words":  75095,
+        "Coded":  336,
+        "Terms":  {
+                      "regulation":  136,
+                      "compliance":  24,
+                      "burden":  0,
+                      "requirement":  93,
+                      "regulator":  10,
+                      "legislation":  17
+                  },
+        "Themes":  {
+                       "Compliance and governance":  62,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  92,
+                       "Direct cost and resourcing":  71,
+                       "Systems, data and process implementation":  39,
+                       "Licensing, approvals and market access":  32,
+                       "Environmental and climate obligations":  52,
+                       "Financial, tax and prudential rules":  68,
+                       "Safety, quality and workforce obligations":  29,
+                       "Privacy, cyber and data protection":  20
+                   },
+        "Frames":  {
+                       "Cost or challenge":  196,
+                       "Obligation or control":  67,
+                       "Transition or anticipation":  16,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  55
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2024,
+        "Words":  77775,
+        "Coded":  334,
+        "Terms":  {
+                      "regulation":  110,
+                      "compliance":  21,
+                      "burden":  0,
+                      "requirement":  85,
+                      "regulator":  7,
+                      "legislation":  23
+                  },
+        "Themes":  {
+                       "Compliance and governance":  57,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  104,
+                       "Direct cost and resourcing":  66,
+                       "Systems, data and process implementation":  36,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  51,
+                       "Financial, tax and prudential rules":  63,
+                       "Safety, quality and workforce obligations":  28,
+                       "Privacy, cyber and data protection":  18
+                   },
+        "Frames":  {
+                       "Cost or challenge":  173,
+                       "Obligation or control":  75,
+                       "Transition or anticipation":  23,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  63
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "CGF",
+        "Company":  "Challenger",
+        "DirName":  "CGF - Challenger",
+        "Year":  2025,
+        "Words":  74760,
+        "Coded":  306,
+        "Terms":  {
+                      "regulation":  112,
+                      "compliance":  24,
+                      "burden":  0,
+                      "requirement":  78,
+                      "regulator":  4,
+                      "legislation":  17
+                  },
+        "Themes":  {
+                       "Compliance and governance":  58,
+                       "Regulatory change and uncertainty":  4,
+                       "Reporting, disclosure and assurance":  105,
+                       "Direct cost and resourcing":  63,
+                       "Systems, data and process implementation":  28,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  59,
+                       "Financial, tax and prudential rules":  60,
+                       "Safety, quality and workforce obligations":  24,
+                       "Privacy, cyber and data protection":  11
+                   },
+        "Frames":  {
+                       "Cost or challenge":  167,
+                       "Obligation or control":  71,
+                       "Transition or anticipation":  14,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  53
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2015,
+        "Words":  66432,
+        "Coded":  171,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  43,
+                      "burden":  0,
+                      "requirement":  39,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  55,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  84,
+                       "Direct cost and resourcing":  33,
+                       "Systems, data and process implementation":  33,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  21,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  63,
+                       "Obligation or control":  60,
+                       "Transition or anticipation":  16,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  27
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2016,
+        "Words":  45222,
+        "Coded":  106,
+        "Terms":  {
+                      "regulation":  5,
+                      "compliance":  7,
+                      "burden":  0,
+                      "requirement":  23,
+                      "regulator":  0,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  11,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  56,
+                       "Direct cost and resourcing":  33,
+                       "Systems, data and process implementation":  11,
+                       "Licensing, approvals and market access":  15,
+                       "Environmental and climate obligations":  4,
+                       "Financial, tax and prudential rules":  14,
+                       "Safety, quality and workforce obligations":  12,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  39,
+                       "Obligation or control":  32,
+                       "Transition or anticipation":  11,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  21
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2017,
+        "Words":  41669,
+        "Coded":  88,
+        "Terms":  {
+                      "regulation":  5,
+                      "compliance":  7,
+                      "burden":  0,
+                      "requirement":  27,
+                      "regulator":  0,
+                      "legislation":  3
+                  },
+        "Themes":  {
+                       "Compliance and governance":  13,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  44,
+                       "Direct cost and resourcing":  28,
+                       "Systems, data and process implementation":  16,
+                       "Licensing, approvals and market access":  15,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  14,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  34,
+                       "Obligation or control":  28,
+                       "Transition or anticipation":  8,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  18
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2018,
+        "Words":  43686,
+        "Coded":  95,
+        "Terms":  {
+                      "regulation":  8,
+                      "compliance":  12,
+                      "burden":  0,
+                      "requirement":  29,
+                      "regulator":  0,
+                      "legislation":  3
+                  },
+        "Themes":  {
+                       "Compliance and governance":  17,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  41,
+                       "Direct cost and resourcing":  26,
+                       "Systems, data and process implementation":  17,
+                       "Licensing, approvals and market access":  20,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  11,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  38,
+                       "Obligation or control":  27,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  20
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2019,
+        "Words":  56648,
+        "Coded":  140,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  45,
+                      "regulator":  0,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  25,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  68,
+                       "Direct cost and resourcing":  46,
+                       "Systems, data and process implementation":  20,
+                       "Licensing, approvals and market access":  20,
+                       "Environmental and climate obligations":  18,
+                       "Financial, tax and prudential rules":  18,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  55,
+                       "Obligation or control":  40,
+                       "Transition or anticipation":  14,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2020,
+        "Words":  61692,
+        "Coded":  140,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  19,
+                      "burden":  0,
+                      "requirement":  37,
+                      "regulator":  0,
+                      "legislation":  12
+                  },
+        "Themes":  {
+                       "Compliance and governance":  32,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  53,
+                       "Direct cost and resourcing":  46,
+                       "Systems, data and process implementation":  22,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  26,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  52,
+                       "Obligation or control":  31,
+                       "Transition or anticipation":  16,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  39
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2021,
+        "Words":  79230,
+        "Coded":  190,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  21,
+                      "burden":  0,
+                      "requirement":  45,
+                      "regulator":  0,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  43,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  73,
+                       "Direct cost and resourcing":  78,
+                       "Systems, data and process implementation":  29,
+                       "Licensing, approvals and market access":  27,
+                       "Environmental and climate obligations":  20,
+                       "Financial, tax and prudential rules":  23,
+                       "Safety, quality and workforce obligations":  23,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  84,
+                       "Obligation or control":  52,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  33
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2022,
+        "Words":  73487,
+        "Coded":  190,
+        "Terms":  {
+                      "regulation":  18,
+                      "compliance":  26,
+                      "burden":  0,
+                      "requirement":  48,
+                      "regulator":  0,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  52,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  77,
+                       "Direct cost and resourcing":  67,
+                       "Systems, data and process implementation":  34,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  22,
+                       "Financial, tax and prudential rules":  25,
+                       "Safety, quality and workforce obligations":  25,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  73,
+                       "Obligation or control":  60,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  37
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2023,
+        "Words":  75214,
+        "Coded":  182,
+        "Terms":  {
+                      "regulation":  16,
+                      "compliance":  27,
+                      "burden":  0,
+                      "requirement":  48,
+                      "regulator":  0,
+                      "legislation":  6
+                  },
+        "Themes":  {
+                       "Compliance and governance":  48,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  63,
+                       "Direct cost and resourcing":  63,
+                       "Systems, data and process implementation":  32,
+                       "Licensing, approvals and market access":  22,
+                       "Environmental and climate obligations":  28,
+                       "Financial, tax and prudential rules":  25,
+                       "Safety, quality and workforce obligations":  24,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  69,
+                       "Obligation or control":  49,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  43
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2024,
+        "Words":  81606,
+        "Coded":  204,
+        "Terms":  {
+                      "regulation":  24,
+                      "compliance":  33,
+                      "burden":  0,
+                      "requirement":  50,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  54,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  69,
+                       "Direct cost and resourcing":  58,
+                       "Systems, data and process implementation":  26,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  39,
+                       "Financial, tax and prudential rules":  26,
+                       "Safety, quality and workforce obligations":  19,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  82,
+                       "Obligation or control":  50,
+                       "Transition or anticipation":  18,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  51
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "DXS",
+        "Company":  "Dexus",
+        "DirName":  "DXS - Dexus",
+        "Year":  2025,
+        "Words":  81466,
+        "Coded":  224,
+        "Terms":  {
+                      "regulation":  26,
+                      "compliance":  29,
+                      "burden":  0,
+                      "requirement":  70,
+                      "regulator":  0,
+                      "legislation":  12
+                  },
+        "Themes":  {
+                       "Compliance and governance":  64,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  87,
+                       "Direct cost and resourcing":  67,
+                       "Systems, data and process implementation":  44,
+                       "Licensing, approvals and market access":  34,
+                       "Environmental and climate obligations":  44,
+                       "Financial, tax and prudential rules":  26,
+                       "Safety, quality and workforce obligations":  27,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  84,
+                       "Obligation or control":  56,
+                       "Transition or anticipation":  23,
+                       "Opportunity or legitimacy":  9,
+                       "Descriptive or neutral":  52
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2015,
+        "Words":  67366,
+        "Coded":  150,
+        "Terms":  {
+                      "regulation":  15,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  23,
+                      "regulator":  1,
+                      "legislation":  3
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  50,
+                       "Direct cost and resourcing":  36,
+                       "Systems, data and process implementation":  15,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  8,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  46,
+                       "Obligation or control":  58,
+                       "Transition or anticipation":  11,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  35
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2016,
+        "Words":  117,
+        "Coded":  0,
+        "Terms":  {
+                      "regulation":  0,
+                      "compliance":  0,
+                      "burden":  0,
+                      "requirement":  0,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  0,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  0,
+                       "Direct cost and resourcing":  0,
+                       "Systems, data and process implementation":  0,
+                       "Licensing, approvals and market access":  0,
+                       "Environmental and climate obligations":  0,
+                       "Financial, tax and prudential rules":  0,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  0,
+                       "Obligation or control":  0,
+                       "Transition or anticipation":  0,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  0
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2017,
+        "Words":  71588,
+        "Coded":  177,
+        "Terms":  {
+                      "regulation":  14,
+                      "compliance":  26,
+                      "burden":  0,
+                      "requirement":  19,
+                      "regulator":  2,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  36,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  40,
+                       "Direct cost and resourcing":  37,
+                       "Systems, data and process implementation":  17,
+                       "Licensing, approvals and market access":  29,
+                       "Environmental and climate obligations":  4,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  8,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  52,
+                       "Obligation or control":  74,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  41
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2018,
+        "Words":  73251,
+        "Coded":  168,
+        "Terms":  {
+                      "regulation":  17,
+                      "compliance":  29,
+                      "burden":  0,
+                      "requirement":  24,
+                      "regulator":  4,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  32,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  39,
+                       "Direct cost and resourcing":  38,
+                       "Systems, data and process implementation":  14,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  4,
+                       "Financial, tax and prudential rules":  12,
+                       "Safety, quality and workforce obligations":  6,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  52,
+                       "Obligation or control":  65,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  40
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2019,
+        "Words":  75925,
+        "Coded":  156,
+        "Terms":  {
+                      "regulation":  16,
+                      "compliance":  25,
+                      "burden":  0,
+                      "requirement":  23,
+                      "regulator":  4,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  26,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  29,
+                       "Direct cost and resourcing":  37,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  32,
+                       "Environmental and climate obligations":  4,
+                       "Financial, tax and prudential rules":  11,
+                       "Safety, quality and workforce obligations":  5,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  46,
+                       "Obligation or control":  56,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  44
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2020,
+        "Words":  66655,
+        "Coded":  172,
+        "Terms":  {
+                      "regulation":  15,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  23,
+                      "regulator":  5,
+                      "legislation":  12
+                  },
+        "Themes":  {
+                       "Compliance and governance":  22,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  35,
+                       "Direct cost and resourcing":  32,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  32,
+                       "Environmental and climate obligations":  5,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  6,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  53,
+                       "Obligation or control":  46,
+                       "Transition or anticipation":  11,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  62
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2021,
+        "Words":  62938,
+        "Coded":  146,
+        "Terms":  {
+                      "regulation":  10,
+                      "compliance":  15,
+                      "burden":  0,
+                      "requirement":  15,
+                      "regulator":  2,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  19,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  39,
+                       "Direct cost and resourcing":  37,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  53,
+                       "Obligation or control":  45,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  40
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2022,
+        "Words":  62069,
+        "Coded":  160,
+        "Terms":  {
+                      "regulation":  10,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  17,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  24,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  46,
+                       "Direct cost and resourcing":  42,
+                       "Systems, data and process implementation":  21,
+                       "Licensing, approvals and market access":  18,
+                       "Environmental and climate obligations":  9,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  13,
+                       "Privacy, cyber and data protection":  12
+                   },
+        "Frames":  {
+                       "Cost or challenge":  59,
+                       "Obligation or control":  41,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  52
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2023,
+        "Words":  60057,
+        "Coded":  178,
+        "Terms":  {
+                      "regulation":  16,
+                      "compliance":  23,
+                      "burden":  0,
+                      "requirement":  24,
+                      "regulator":  3,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  29,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  58,
+                       "Direct cost and resourcing":  65,
+                       "Systems, data and process implementation":  21,
+                       "Licensing, approvals and market access":  33,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  18,
+                       "Safety, quality and workforce obligations":  15,
+                       "Privacy, cyber and data protection":  15
+                   },
+        "Frames":  {
+                       "Cost or challenge":  87,
+                       "Obligation or control":  49,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  33
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2024,
+        "Words":  72638,
+        "Coded":  214,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  31,
+                      "burden":  0,
+                      "requirement":  27,
+                      "regulator":  2,
+                      "legislation":  20
+                  },
+        "Themes":  {
+                       "Compliance and governance":  35,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  81,
+                       "Direct cost and resourcing":  60,
+                       "Systems, data and process implementation":  24,
+                       "Licensing, approvals and market access":  34,
+                       "Environmental and climate obligations":  23,
+                       "Financial, tax and prudential rules":  42,
+                       "Safety, quality and workforce obligations":  14,
+                       "Privacy, cyber and data protection":  13
+                   },
+        "Frames":  {
+                       "Cost or challenge":  82,
+                       "Obligation or control":  56,
+                       "Transition or anticipation":  12,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  62
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "HVN",
+        "Company":  "Harvey Norman Holdings Limited",
+        "DirName":  "HVN - Harvey Norman Holdings Limited",
+        "Year":  2025,
+        "Words":  66565,
+        "Coded":  192,
+        "Terms":  {
+                      "regulation":  15,
+                      "compliance":  33,
+                      "burden":  0,
+                      "requirement":  26,
+                      "regulator":  2,
+                      "legislation":  16
+                  },
+        "Themes":  {
+                       "Compliance and governance":  34,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  67,
+                       "Direct cost and resourcing":  49,
+                       "Systems, data and process implementation":  20,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  19,
+                       "Financial, tax and prudential rules":  36,
+                       "Safety, quality and workforce obligations":  12,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  73,
+                       "Obligation or control":  58,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  49
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2015,
+        "Words":  51204,
+        "Coded":  144,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  21,
+                      "regulator":  0,
+                      "legislation":  14
+                  },
+        "Themes":  {
+                       "Compliance and governance":  18,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  78,
+                       "Direct cost and resourcing":  49,
+                       "Systems, data and process implementation":  9,
+                       "Licensing, approvals and market access":  10,
+                       "Environmental and climate obligations":  6,
+                       "Financial, tax and prudential rules":  33,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  53,
+                       "Obligation or control":  51,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2016,
+        "Words":  38059,
+        "Coded":  82,
+        "Terms":  {
+                      "regulation":  7,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  12,
+                      "regulator":  0,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  19,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  44,
+                       "Direct cost and resourcing":  22,
+                       "Systems, data and process implementation":  4,
+                       "Licensing, approvals and market access":  6,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  11,
+                       "Safety, quality and workforce obligations":  5,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  23,
+                       "Obligation or control":  29,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  23
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2017,
+        "Words":  50969,
+        "Coded":  95,
+        "Terms":  {
+                      "regulation":  8,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  15,
+                      "regulator":  0,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  40,
+                       "Direct cost and resourcing":  23,
+                       "Systems, data and process implementation":  13,
+                       "Licensing, approvals and market access":  5,
+                       "Environmental and climate obligations":  11,
+                       "Financial, tax and prudential rules":  12,
+                       "Safety, quality and workforce obligations":  5,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  27,
+                       "Obligation or control":  27,
+                       "Transition or anticipation":  11,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2018,
+        "Words":  52948,
+        "Coded":  108,
+        "Terms":  {
+                      "regulation":  8,
+                      "compliance":  20,
+                      "burden":  0,
+                      "requirement":  24,
+                      "regulator":  0,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  28,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  39,
+                       "Direct cost and resourcing":  24,
+                       "Systems, data and process implementation":  11,
+                       "Licensing, approvals and market access":  11,
+                       "Environmental and climate obligations":  7,
+                       "Financial, tax and prudential rules":  12,
+                       "Safety, quality and workforce obligations":  12,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  29,
+                       "Obligation or control":  34,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  32
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2019,
+        "Words":  59537,
+        "Coded":  111,
+        "Terms":  {
+                      "regulation":  10,
+                      "compliance":  20,
+                      "burden":  1,
+                      "requirement":  27,
+                      "regulator":  0,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  40,
+                       "Direct cost and resourcing":  28,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  9,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  14,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  30,
+                       "Obligation or control":  40,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  31
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2020,
+        "Words":  74580,
+        "Coded":  161,
+        "Terms":  {
+                      "regulation":  9,
+                      "compliance":  20,
+                      "burden":  1,
+                      "requirement":  26,
+                      "regulator":  0,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  21,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  45,
+                       "Direct cost and resourcing":  34,
+                       "Systems, data and process implementation":  14,
+                       "Licensing, approvals and market access":  36,
+                       "Environmental and climate obligations":  9,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  18,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  35,
+                       "Obligation or control":  43,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  61
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2021,
+        "Words":  65765,
+        "Coded":  133,
+        "Terms":  {
+                      "regulation":  9,
+                      "compliance":  19,
+                      "burden":  0,
+                      "requirement":  23,
+                      "regulator":  0,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  34,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  46,
+                       "Direct cost and resourcing":  33,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  17,
+                       "Environmental and climate obligations":  23,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  14,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  48,
+                       "Obligation or control":  39,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  7,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2022,
+        "Words":  61652,
+        "Coded":  142,
+        "Terms":  {
+                      "regulation":  12,
+                      "compliance":  22,
+                      "burden":  0,
+                      "requirement":  28,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  38,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  48,
+                       "Direct cost and resourcing":  39,
+                       "Systems, data and process implementation":  13,
+                       "Licensing, approvals and market access":  14,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  11,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  56,
+                       "Obligation or control":  37,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  40
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2023,
+        "Words":  62950,
+        "Coded":  152,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  22,
+                      "burden":  0,
+                      "requirement":  29,
+                      "regulator":  4,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  38,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  57,
+                       "Direct cost and resourcing":  43,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  17,
+                       "Environmental and climate obligations":  20,
+                       "Financial, tax and prudential rules":  11,
+                       "Safety, quality and workforce obligations":  17,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  61,
+                       "Obligation or control":  48,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2024,
+        "Words":  66569,
+        "Coded":  166,
+        "Terms":  {
+                      "regulation":  18,
+                      "compliance":  21,
+                      "burden":  0,
+                      "requirement":  28,
+                      "regulator":  3,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  46,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  64,
+                       "Direct cost and resourcing":  45,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  19,
+                       "Environmental and climate obligations":  17,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  17,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  63,
+                       "Obligation or control":  50,
+                       "Transition or anticipation":  13,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  37
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "MGR",
+        "Company":  "Mirvac",
+        "DirName":  "MGR - Mirvac",
+        "Year":  2025,
+        "Words":  60122,
+        "Coded":  169,
+        "Terms":  {
+                      "regulation":  22,
+                      "compliance":  30,
+                      "burden":  0,
+                      "requirement":  32,
+                      "regulator":  1,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  54,
+                       "Regulatory change and uncertainty":  4,
+                       "Reporting, disclosure and assurance":  67,
+                       "Direct cost and resourcing":  41,
+                       "Systems, data and process implementation":  20,
+                       "Licensing, approvals and market access":  15,
+                       "Environmental and climate obligations":  26,
+                       "Financial, tax and prudential rules":  11,
+                       "Safety, quality and workforce obligations":  22,
+                       "Privacy, cyber and data protection":  8
+                   },
+        "Frames":  {
+                       "Cost or challenge":  71,
+                       "Obligation or control":  50,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  8,
+                       "Descriptive or neutral":  30
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2015,
+        "Words":  33694,
+        "Coded":  116,
+        "Terms":  {
+                      "regulation":  8,
+                      "compliance":  8,
+                      "burden":  0,
+                      "requirement":  16,
+                      "regulator":  0,
+                      "legislation":  3
+                  },
+        "Themes":  {
+                       "Compliance and governance":  8,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  42,
+                       "Direct cost and resourcing":  49,
+                       "Systems, data and process implementation":  11,
+                       "Licensing, approvals and market access":  12,
+                       "Environmental and climate obligations":  17,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  14,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  26,
+                       "Obligation or control":  48,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  32
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2016,
+        "Words":  34168,
+        "Coded":  131,
+        "Terms":  {
+                      "regulation":  7,
+                      "compliance":  8,
+                      "burden":  0,
+                      "requirement":  12,
+                      "regulator":  0,
+                      "legislation":  7
+                  },
+        "Themes":  {
+                       "Compliance and governance":  10,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  36,
+                       "Direct cost and resourcing":  66,
+                       "Systems, data and process implementation":  16,
+                       "Licensing, approvals and market access":  17,
+                       "Environmental and climate obligations":  14,
+                       "Financial, tax and prudential rules":  22,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  38,
+                       "Obligation or control":  41,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  40
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2017,
+        "Words":  36492,
+        "Coded":  139,
+        "Terms":  {
+                      "regulation":  9,
+                      "compliance":  6,
+                      "burden":  0,
+                      "requirement":  19,
+                      "regulator":  0,
+                      "legislation":  9
+                  },
+        "Themes":  {
+                       "Compliance and governance":  9,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  45,
+                       "Direct cost and resourcing":  68,
+                       "Systems, data and process implementation":  14,
+                       "Licensing, approvals and market access":  16,
+                       "Environmental and climate obligations":  19,
+                       "Financial, tax and prudential rules":  20,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  39,
+                       "Obligation or control":  43,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  47
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2018,
+        "Words":  42699,
+        "Coded":  173,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  24,
+                      "burden":  0,
+                      "requirement":  16,
+                      "regulator":  7,
+                      "legislation":  18
+                  },
+        "Themes":  {
+                       "Compliance and governance":  24,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  65,
+                       "Direct cost and resourcing":  84,
+                       "Systems, data and process implementation":  25,
+                       "Licensing, approvals and market access":  17,
+                       "Environmental and climate obligations":  27,
+                       "Financial, tax and prudential rules":  25,
+                       "Safety, quality and workforce obligations":  20,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  70,
+                       "Obligation or control":  44,
+                       "Transition or anticipation":  12,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  45
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2019,
+        "Words":  61862,
+        "Coded":  180,
+        "Terms":  {
+                      "regulation":  23,
+                      "compliance":  21,
+                      "burden":  0,
+                      "requirement":  24,
+                      "regulator":  3,
+                      "legislation":  18
+                  },
+        "Themes":  {
+                       "Compliance and governance":  26,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  59,
+                       "Direct cost and resourcing":  72,
+                       "Systems, data and process implementation":  25,
+                       "Licensing, approvals and market access":  23,
+                       "Environmental and climate obligations":  26,
+                       "Financial, tax and prudential rules":  21,
+                       "Safety, quality and workforce obligations":  21,
+                       "Privacy, cyber and data protection":  3
+                   },
+        "Frames":  {
+                       "Cost or challenge":  61,
+                       "Obligation or control":  50,
+                       "Transition or anticipation":  21,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  44
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2020,
+        "Words":  71574,
+        "Coded":  317,
+        "Terms":  {
+                      "regulation":  20,
+                      "compliance":  14,
+                      "burden":  0,
+                      "requirement":  20,
+                      "regulator":  1,
+                      "legislation":  19
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  187,
+                       "Direct cost and resourcing":  224,
+                       "Systems, data and process implementation":  40,
+                       "Licensing, approvals and market access":  33,
+                       "Environmental and climate obligations":  26,
+                       "Financial, tax and prudential rules":  41,
+                       "Safety, quality and workforce obligations":  42,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  88,
+                       "Obligation or control":  63,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  147
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2021,
+        "Words":  61076,
+        "Coded":  341,
+        "Terms":  {
+                      "regulation":  20,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  19,
+                      "regulator":  0,
+                      "legislation":  23
+                  },
+        "Themes":  {
+                       "Compliance and governance":  31,
+                       "Regulatory change and uncertainty":  3,
+                       "Reporting, disclosure and assurance":  214,
+                       "Direct cost and resourcing":  241,
+                       "Systems, data and process implementation":  47,
+                       "Licensing, approvals and market access":  23,
+                       "Environmental and climate obligations":  37,
+                       "Financial, tax and prudential rules":  45,
+                       "Safety, quality and workforce obligations":  41,
+                       "Privacy, cyber and data protection":  2
+                   },
+        "Frames":  {
+                       "Cost or challenge":  91,
+                       "Obligation or control":  67,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  6,
+                       "Descriptive or neutral":  160
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2022,
+        "Words":  53745,
+        "Coded":  271,
+        "Terms":  {
+                      "regulation":  14,
+                      "compliance":  16,
+                      "burden":  0,
+                      "requirement":  14,
+                      "regulator":  1,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  21,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  177,
+                       "Direct cost and resourcing":  204,
+                       "Systems, data and process implementation":  32,
+                       "Licensing, approvals and market access":  19,
+                       "Environmental and climate obligations":  31,
+                       "Financial, tax and prudential rules":  38,
+                       "Safety, quality and workforce obligations":  25,
+                       "Privacy, cyber and data protection":  8
+                   },
+        "Frames":  {
+                       "Cost or challenge":  71,
+                       "Obligation or control":  39,
+                       "Transition or anticipation":  18,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  138
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2023,
+        "Words":  55347,
+        "Coded":  328,
+        "Terms":  {
+                      "regulation":  25,
+                      "compliance":  12,
+                      "burden":  0,
+                      "requirement":  22,
+                      "regulator":  1,
+                      "legislation":  16
+                  },
+        "Themes":  {
+                       "Compliance and governance":  25,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  183,
+                       "Direct cost and resourcing":  224,
+                       "Systems, data and process implementation":  57,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  29,
+                       "Financial, tax and prudential rules":  37,
+                       "Safety, quality and workforce obligations":  27,
+                       "Privacy, cyber and data protection":  21
+                   },
+        "Frames":  {
+                       "Cost or challenge":  101,
+                       "Obligation or control":  64,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  6,
+                       "Descriptive or neutral":  137
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2024,
+        "Words":  57782,
+        "Coded":  260,
+        "Terms":  {
+                      "regulation":  30,
+                      "compliance":  17,
+                      "burden":  1,
+                      "requirement":  20,
+                      "regulator":  1,
+                      "legislation":  16
+                  },
+        "Themes":  {
+                       "Compliance and governance":  28,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  140,
+                       "Direct cost and resourcing":  166,
+                       "Systems, data and process implementation":  51,
+                       "Licensing, approvals and market access":  21,
+                       "Environmental and climate obligations":  45,
+                       "Financial, tax and prudential rules":  31,
+                       "Safety, quality and workforce obligations":  25,
+                       "Privacy, cyber and data protection":  12
+                   },
+        "Frames":  {
+                       "Cost or challenge":  91,
+                       "Obligation or control":  49,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  97
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "NST",
+        "Company":  "Northern Star Resources LTD",
+        "DirName":  "NST - Northern Star Resources LTD",
+        "Year":  2025,
+        "Words":  75904,
+        "Coded":  358,
+        "Terms":  {
+                      "regulation":  54,
+                      "compliance":  23,
+                      "burden":  1,
+                      "requirement":  37,
+                      "regulator":  10,
+                      "legislation":  20
+                  },
+        "Themes":  {
+                       "Compliance and governance":  32,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  182,
+                       "Direct cost and resourcing":  190,
+                       "Systems, data and process implementation":  68,
+                       "Licensing, approvals and market access":  35,
+                       "Environmental and climate obligations":  99,
+                       "Financial, tax and prudential rules":  32,
+                       "Safety, quality and workforce obligations":  25,
+                       "Privacy, cyber and data protection":  16
+                   },
+        "Frames":  {
+                       "Cost or challenge":  107,
+                       "Obligation or control":  82,
+                       "Transition or anticipation":  34,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  132
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2015,
+        "Words":  96063,
+        "Coded":  333,
+        "Terms":  {
+                      "regulation":  82,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  76,
+                      "regulator":  8,
+                      "legislation":  22
+                  },
+        "Themes":  {
+                       "Compliance and governance":  60,
+                       "Regulatory change and uncertainty":  4,
+                       "Reporting, disclosure and assurance":  90,
+                       "Direct cost and resourcing":  78,
+                       "Systems, data and process implementation":  38,
+                       "Licensing, approvals and market access":  18,
+                       "Environmental and climate obligations":  10,
+                       "Financial, tax and prudential rules":  57,
+                       "Safety, quality and workforce obligations":  18,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  119,
+                       "Obligation or control":  112,
+                       "Transition or anticipation":  18,
+                       "Opportunity or legitimacy":  7,
+                       "Descriptive or neutral":  77
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2016,
+        "Words":  82469,
+        "Coded":  298,
+        "Terms":  {
+                      "regulation":  60,
+                      "compliance":  19,
+                      "burden":  0,
+                      "requirement":  64,
+                      "regulator":  4,
+                      "legislation":  23
+                  },
+        "Themes":  {
+                       "Compliance and governance":  51,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  67,
+                       "Direct cost and resourcing":  75,
+                       "Systems, data and process implementation":  19,
+                       "Licensing, approvals and market access":  22,
+                       "Environmental and climate obligations":  5,
+                       "Financial, tax and prudential rules":  48,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  103,
+                       "Obligation or control":  89,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  84
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2017,
+        "Words":  79028,
+        "Coded":  282,
+        "Terms":  {
+                      "regulation":  59,
+                      "compliance":  22,
+                      "burden":  0,
+                      "requirement":  58,
+                      "regulator":  3,
+                      "legislation":  23
+                  },
+        "Themes":  {
+                       "Compliance and governance":  46,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  62,
+                       "Direct cost and resourcing":  72,
+                       "Systems, data and process implementation":  23,
+                       "Licensing, approvals and market access":  25,
+                       "Environmental and climate obligations":  7,
+                       "Financial, tax and prudential rules":  57,
+                       "Safety, quality and workforce obligations":  15,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  103,
+                       "Obligation or control":  87,
+                       "Transition or anticipation":  16,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  73
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2018,
+        "Words":  83926,
+        "Coded":  299,
+        "Terms":  {
+                      "regulation":  72,
+                      "compliance":  26,
+                      "burden":  0,
+                      "requirement":  54,
+                      "regulator":  9,
+                      "legislation":  22
+                  },
+        "Themes":  {
+                       "Compliance and governance":  47,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  73,
+                       "Direct cost and resourcing":  73,
+                       "Systems, data and process implementation":  34,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  65,
+                       "Safety, quality and workforce obligations":  15,
+                       "Privacy, cyber and data protection":  9
+                   },
+        "Frames":  {
+                       "Cost or challenge":  112,
+                       "Obligation or control":  89,
+                       "Transition or anticipation":  23,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  71
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2019,
+        "Words":  82459,
+        "Coded":  313,
+        "Terms":  {
+                      "regulation":  83,
+                      "compliance":  45,
+                      "burden":  1,
+                      "requirement":  66,
+                      "regulator":  5,
+                      "legislation":  22
+                  },
+        "Themes":  {
+                       "Compliance and governance":  66,
+                       "Regulatory change and uncertainty":  5,
+                       "Reporting, disclosure and assurance":  76,
+                       "Direct cost and resourcing":  65,
+                       "Systems, data and process implementation":  41,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  19,
+                       "Financial, tax and prudential rules":  60,
+                       "Safety, quality and workforce obligations":  16,
+                       "Privacy, cyber and data protection":  11
+                   },
+        "Frames":  {
+                       "Cost or challenge":  123,
+                       "Obligation or control":  99,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  69
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2020,
+        "Words":  80405,
+        "Coded":  292,
+        "Terms":  {
+                      "regulation":  70,
+                      "compliance":  33,
+                      "burden":  0,
+                      "requirement":  60,
+                      "regulator":  11,
+                      "legislation":  21
+                  },
+        "Themes":  {
+                       "Compliance and governance":  60,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  73,
+                       "Direct cost and resourcing":  75,
+                       "Systems, data and process implementation":  31,
+                       "Licensing, approvals and market access":  21,
+                       "Environmental and climate obligations":  14,
+                       "Financial, tax and prudential rules":  56,
+                       "Safety, quality and workforce obligations":  13,
+                       "Privacy, cyber and data protection":  10
+                   },
+        "Frames":  {
+                       "Cost or challenge":  120,
+                       "Obligation or control":  91,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  61
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2021,
+        "Words":  80126,
+        "Coded":  302,
+        "Terms":  {
+                      "regulation":  59,
+                      "compliance":  36,
+                      "burden":  0,
+                      "requirement":  65,
+                      "regulator":  7,
+                      "legislation":  21
+                  },
+        "Themes":  {
+                       "Compliance and governance":  60,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  79,
+                       "Direct cost and resourcing":  81,
+                       "Systems, data and process implementation":  31,
+                       "Licensing, approvals and market access":  18,
+                       "Environmental and climate obligations":  13,
+                       "Financial, tax and prudential rules":  53,
+                       "Safety, quality and workforce obligations":  17,
+                       "Privacy, cyber and data protection":  17
+                   },
+        "Frames":  {
+                       "Cost or challenge":  123,
+                       "Obligation or control":  102,
+                       "Transition or anticipation":  13,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  60
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2022,
+        "Words":  79407,
+        "Coded":  276,
+        "Terms":  {
+                      "regulation":  50,
+                      "compliance":  31,
+                      "burden":  0,
+                      "requirement":  61,
+                      "regulator":  6,
+                      "legislation":  20
+                  },
+        "Themes":  {
+                       "Compliance and governance":  50,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  80,
+                       "Direct cost and resourcing":  73,
+                       "Systems, data and process implementation":  19,
+                       "Licensing, approvals and market access":  20,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  51,
+                       "Safety, quality and workforce obligations":  20,
+                       "Privacy, cyber and data protection":  11
+                   },
+        "Frames":  {
+                       "Cost or challenge":  112,
+                       "Obligation or control":  94,
+                       "Transition or anticipation":  14,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  52
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2023,
+        "Words":  93905,
+        "Coded":  362,
+        "Terms":  {
+                      "regulation":  81,
+                      "compliance":  55,
+                      "burden":  0,
+                      "requirement":  72,
+                      "regulator":  15,
+                      "legislation":  24
+                  },
+        "Themes":  {
+                       "Compliance and governance":  75,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  91,
+                       "Direct cost and resourcing":  65,
+                       "Systems, data and process implementation":  50,
+                       "Licensing, approvals and market access":  22,
+                       "Environmental and climate obligations":  30,
+                       "Financial, tax and prudential rules":  52,
+                       "Safety, quality and workforce obligations":  29,
+                       "Privacy, cyber and data protection":  47
+                   },
+        "Frames":  {
+                       "Cost or challenge":  126,
+                       "Obligation or control":  122,
+                       "Transition or anticipation":  26,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  83
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2024,
+        "Words":  94385,
+        "Coded":  385,
+        "Terms":  {
+                      "regulation":  100,
+                      "compliance":  56,
+                      "burden":  1,
+                      "requirement":  81,
+                      "regulator":  16,
+                      "legislation":  30
+                  },
+        "Themes":  {
+                       "Compliance and governance":  83,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  99,
+                       "Direct cost and resourcing":  62,
+                       "Systems, data and process implementation":  54,
+                       "Licensing, approvals and market access":  18,
+                       "Environmental and climate obligations":  46,
+                       "Financial, tax and prudential rules":  56,
+                       "Safety, quality and workforce obligations":  32,
+                       "Privacy, cyber and data protection":  46
+                   },
+        "Frames":  {
+                       "Cost or challenge":  136,
+                       "Obligation or control":  122,
+                       "Transition or anticipation":  30,
+                       "Opportunity or legitimacy":  7,
+                       "Descriptive or neutral":  90
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "QBE",
+        "Company":  "QBE Insurance",
+        "DirName":  "QBE - QBE Insurance",
+        "Year":  2025,
+        "Words":  96552,
+        "Coded":  380,
+        "Terms":  {
+                      "regulation":  85,
+                      "compliance":  40,
+                      "burden":  1,
+                      "requirement":  79,
+                      "regulator":  7,
+                      "legislation":  25
+                  },
+        "Themes":  {
+                       "Compliance and governance":  94,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  120,
+                       "Direct cost and resourcing":  74,
+                       "Systems, data and process implementation":  52,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  76,
+                       "Financial, tax and prudential rules":  52,
+                       "Safety, quality and workforce obligations":  24,
+                       "Privacy, cyber and data protection":  22
+                   },
+        "Frames":  {
+                       "Cost or challenge":  141,
+                       "Obligation or control":  123,
+                       "Transition or anticipation":  22,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  89
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2015,
+        "Words":  26374,
+        "Coded":  62,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  15,
+                      "burden":  0,
+                      "requirement":  9,
+                      "regulator":  0,
+                      "legislation":  4
+                  },
+        "Themes":  {
+                       "Compliance and governance":  16,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  24,
+                       "Direct cost and resourcing":  6,
+                       "Systems, data and process implementation":  3,
+                       "Licensing, approvals and market access":  2,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  8,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  12,
+                       "Obligation or control":  27,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  10,
+                       "Descriptive or neutral":  8
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2016,
+        "Words":  50775,
+        "Coded":  112,
+        "Terms":  {
+                      "regulation":  9,
+                      "compliance":  36,
+                      "burden":  0,
+                      "requirement":  13,
+                      "regulator":  1,
+                      "legislation":  6
+                  },
+        "Themes":  {
+                       "Compliance and governance":  35,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  53,
+                       "Direct cost and resourcing":  20,
+                       "Systems, data and process implementation":  12,
+                       "Licensing, approvals and market access":  9,
+                       "Environmental and climate obligations":  5,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  1,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  38,
+                       "Obligation or control":  40,
+                       "Transition or anticipation":  4,
+                       "Opportunity or legitimacy":  9,
+                       "Descriptive or neutral":  21
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2017,
+        "Words":  42961,
+        "Coded":  112,
+        "Terms":  {
+                      "regulation":  10,
+                      "compliance":  28,
+                      "burden":  0,
+                      "requirement":  16,
+                      "regulator":  0,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  27,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  55,
+                       "Direct cost and resourcing":  24,
+                       "Systems, data and process implementation":  5,
+                       "Licensing, approvals and market access":  9,
+                       "Environmental and climate obligations":  6,
+                       "Financial, tax and prudential rules":  18,
+                       "Safety, quality and workforce obligations":  3,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  40,
+                       "Obligation or control":  33,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  9,
+                       "Descriptive or neutral":  20
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2018,
+        "Words":  42967,
+        "Coded":  106,
+        "Terms":  {
+                      "regulation":  12,
+                      "compliance":  24,
+                      "burden":  0,
+                      "requirement":  15,
+                      "regulator":  0,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  52,
+                       "Direct cost and resourcing":  19,
+                       "Systems, data and process implementation":  5,
+                       "Licensing, approvals and market access":  9,
+                       "Environmental and climate obligations":  7,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  2,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  33,
+                       "Obligation or control":  39,
+                       "Transition or anticipation":  9,
+                       "Opportunity or legitimacy":  10,
+                       "Descriptive or neutral":  15
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2019,
+        "Words":  15510,
+        "Coded":  47,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  0,
+                      "burden":  0,
+                      "requirement":  9,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  2,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  21,
+                       "Direct cost and resourcing":  9,
+                       "Systems, data and process implementation":  2,
+                       "Licensing, approvals and market access":  2,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  2,
+                       "Safety, quality and workforce obligations":  3,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  9,
+                       "Obligation or control":  20,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  13
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2020,
+        "Words":  19217,
+        "Coded":  51,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  0,
+                      "burden":  0,
+                      "requirement":  8,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  2,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  22,
+                       "Direct cost and resourcing":  9,
+                       "Systems, data and process implementation":  3,
+                       "Licensing, approvals and market access":  3,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  2,
+                       "Safety, quality and workforce obligations":  3,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  10,
+                       "Obligation or control":  22,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  14
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2021,
+        "Words":  19199,
+        "Coded":  45,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  1,
+                      "burden":  0,
+                      "requirement":  7,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  3,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  19,
+                       "Direct cost and resourcing":  6,
+                       "Systems, data and process implementation":  2,
+                       "Licensing, approvals and market access":  2,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  2,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  7,
+                       "Obligation or control":  18,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  14
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2022,
+        "Words":  17726,
+        "Coded":  43,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  1,
+                      "burden":  0,
+                      "requirement":  8,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  3,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  17,
+                       "Direct cost and resourcing":  7,
+                       "Systems, data and process implementation":  2,
+                       "Licensing, approvals and market access":  3,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  1,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  1
+                   },
+        "Frames":  {
+                       "Cost or challenge":  7,
+                       "Obligation or control":  18,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  12
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2023,
+        "Words":  13524,
+        "Coded":  35,
+        "Terms":  {
+                      "regulation":  6,
+                      "compliance":  0,
+                      "burden":  0,
+                      "requirement":  10,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  2,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  18,
+                       "Direct cost and resourcing":  6,
+                       "Systems, data and process implementation":  1,
+                       "Licensing, approvals and market access":  0,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  1,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  5,
+                       "Obligation or control":  12,
+                       "Transition or anticipation":  7,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  11
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2024,
+        "Words":  9204,
+        "Coded":  36,
+        "Terms":  {
+                      "regulation":  5,
+                      "compliance":  2,
+                      "burden":  0,
+                      "requirement":  6,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  5,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  21,
+                       "Direct cost and resourcing":  5,
+                       "Systems, data and process implementation":  1,
+                       "Licensing, approvals and market access":  3,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  2,
+                       "Safety, quality and workforce obligations":  0,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  4,
+                       "Obligation or control":  14,
+                       "Transition or anticipation":  8,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  10
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "SCP",
+        "Company":  "Shopping Centres Australasia Property Group Stapled",
+        "DirName":  "SCP - Shopping Centres Australasia Property Group Stapled",
+        "Year":  2025,
+        "Words":  17030,
+        "Coded":  48,
+        "Terms":  {
+                      "regulation":  3,
+                      "compliance":  5,
+                      "burden":  0,
+                      "requirement":  9,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  10,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  20,
+                       "Direct cost and resourcing":  13,
+                       "Systems, data and process implementation":  5,
+                       "Licensing, approvals and market access":  4,
+                       "Environmental and climate obligations":  1,
+                       "Financial, tax and prudential rules":  1,
+                       "Safety, quality and workforce obligations":  1,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  14,
+                       "Obligation or control":  16,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  12
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2015,
+        "Words":  66202,
+        "Coded":  226,
+        "Terms":  {
+                      "regulation":  16,
+                      "compliance":  12,
+                      "burden":  0,
+                      "requirement":  35,
+                      "regulator":  0,
+                      "legislation":  16
+                  },
+        "Themes":  {
+                       "Compliance and governance":  29,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  90,
+                       "Direct cost and resourcing":  83,
+                       "Systems, data and process implementation":  25,
+                       "Licensing, approvals and market access":  32,
+                       "Environmental and climate obligations":  38,
+                       "Financial, tax and prudential rules":  24,
+                       "Safety, quality and workforce obligations":  25,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  85,
+                       "Obligation or control":  69,
+                       "Transition or anticipation":  21,
+                       "Opportunity or legitimacy":  6,
+                       "Descriptive or neutral":  45
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2016,
+        "Words":  46993,
+        "Coded":  147,
+        "Terms":  {
+                      "regulation":  14,
+                      "compliance":  9,
+                      "burden":  0,
+                      "requirement":  21,
+                      "regulator":  1,
+                      "legislation":  11
+                  },
+        "Themes":  {
+                       "Compliance and governance":  14,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  56,
+                       "Direct cost and resourcing":  52,
+                       "Systems, data and process implementation":  14,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  8,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  46,
+                       "Obligation or control":  47,
+                       "Transition or anticipation":  19,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  34
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2017,
+        "Words":  47579,
+        "Coded":  149,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  10,
+                      "burden":  0,
+                      "requirement":  21,
+                      "regulator":  1,
+                      "legislation":  18
+                  },
+        "Themes":  {
+                       "Compliance and governance":  13,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  49,
+                       "Direct cost and resourcing":  44,
+                       "Systems, data and process implementation":  11,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  13,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  0
+                   },
+        "Frames":  {
+                       "Cost or challenge":  47,
+                       "Obligation or control":  48,
+                       "Transition or anticipation":  18,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  36
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2018,
+        "Words":  50614,
+        "Coded":  164,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  8,
+                      "burden":  0,
+                      "requirement":  28,
+                      "regulator":  1,
+                      "legislation":  17
+                  },
+        "Themes":  {
+                       "Compliance and governance":  13,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  51,
+                       "Direct cost and resourcing":  47,
+                       "Systems, data and process implementation":  21,
+                       "Licensing, approvals and market access":  29,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  4
+                   },
+        "Frames":  {
+                       "Cost or challenge":  47,
+                       "Obligation or control":  53,
+                       "Transition or anticipation":  25,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  38
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2019,
+        "Words":  53277,
+        "Coded":  176,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  7,
+                      "burden":  0,
+                      "requirement":  24,
+                      "regulator":  1,
+                      "legislation":  20
+                  },
+        "Themes":  {
+                       "Compliance and governance":  12,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  57,
+                       "Direct cost and resourcing":  54,
+                       "Systems, data and process implementation":  20,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  15,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  50,
+                       "Obligation or control":  63,
+                       "Transition or anticipation":  25,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  37
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2020,
+        "Words":  52127,
+        "Coded":  184,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  8,
+                      "burden":  0,
+                      "requirement":  26,
+                      "regulator":  1,
+                      "legislation":  15
+                  },
+        "Themes":  {
+                       "Compliance and governance":  12,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  61,
+                       "Direct cost and resourcing":  56,
+                       "Systems, data and process implementation":  27,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  19,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  7,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  54,
+                       "Obligation or control":  65,
+                       "Transition or anticipation":  18,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  45
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2021,
+        "Words":  57229,
+        "Coded":  206,
+        "Terms":  {
+                      "regulation":  30,
+                      "compliance":  10,
+                      "burden":  0,
+                      "requirement":  33,
+                      "regulator":  4,
+                      "legislation":  13
+                  },
+        "Themes":  {
+                       "Compliance and governance":  13,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  60,
+                       "Direct cost and resourcing":  63,
+                       "Systems, data and process implementation":  29,
+                       "Licensing, approvals and market access":  37,
+                       "Environmental and climate obligations":  30,
+                       "Financial, tax and prudential rules":  13,
+                       "Safety, quality and workforce obligations":  6,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  60,
+                       "Obligation or control":  73,
+                       "Transition or anticipation":  22,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  49
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2022,
+        "Words":  60712,
+        "Coded":  226,
+        "Terms":  {
+                      "regulation":  40,
+                      "compliance":  14,
+                      "burden":  0,
+                      "requirement":  38,
+                      "regulator":  10,
+                      "legislation":  20
+                  },
+        "Themes":  {
+                       "Compliance and governance":  20,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  75,
+                       "Direct cost and resourcing":  69,
+                       "Systems, data and process implementation":  28,
+                       "Licensing, approvals and market access":  35,
+                       "Environmental and climate obligations":  32,
+                       "Financial, tax and prudential rules":  14,
+                       "Safety, quality and workforce obligations":  5,
+                       "Privacy, cyber and data protection":  6
+                   },
+        "Frames":  {
+                       "Cost or challenge":  68,
+                       "Obligation or control":  81,
+                       "Transition or anticipation":  22,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  52
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2023,
+        "Words":  61430,
+        "Coded":  250,
+        "Terms":  {
+                      "regulation":  47,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  41,
+                      "regulator":  9,
+                      "legislation":  28
+                  },
+        "Themes":  {
+                       "Compliance and governance":  29,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  85,
+                       "Direct cost and resourcing":  72,
+                       "Systems, data and process implementation":  41,
+                       "Licensing, approvals and market access":  36,
+                       "Environmental and climate obligations":  42,
+                       "Financial, tax and prudential rules":  19,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  7
+                   },
+        "Frames":  {
+                       "Cost or challenge":  68,
+                       "Obligation or control":  89,
+                       "Transition or anticipation":  26,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  65
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2024,
+        "Words":  126740,
+        "Coded":  585,
+        "Terms":  {
+                      "regulation":  144,
+                      "compliance":  123,
+                      "burden":  1,
+                      "requirement":  115,
+                      "regulator":  25,
+                      "legislation":  40
+                  },
+        "Themes":  {
+                       "Compliance and governance":  159,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  175,
+                       "Direct cost and resourcing":  157,
+                       "Systems, data and process implementation":  124,
+                       "Licensing, approvals and market access":  82,
+                       "Environmental and climate obligations":  224,
+                       "Financial, tax and prudential rules":  37,
+                       "Safety, quality and workforce obligations":  38,
+                       "Privacy, cyber and data protection":  11
+                   },
+        "Frames":  {
+                       "Cost or challenge":  184,
+                       "Obligation or control":  207,
+                       "Transition or anticipation":  46,
+                       "Opportunity or legitimacy":  14,
+                       "Descriptive or neutral":  134
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "STO",
+        "Company":  "Santos",
+        "DirName":  "STO - Santos",
+        "Year":  2025,
+        "Words":  131431,
+        "Coded":  715,
+        "Terms":  {
+                      "regulation":  154,
+                      "compliance":  118,
+                      "burden":  1,
+                      "requirement":  120,
+                      "regulator":  32,
+                      "legislation":  48
+                  },
+        "Themes":  {
+                       "Compliance and governance":  270,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  180,
+                       "Direct cost and resourcing":  153,
+                       "Systems, data and process implementation":  145,
+                       "Licensing, approvals and market access":  100,
+                       "Environmental and climate obligations":  325,
+                       "Financial, tax and prudential rules":  38,
+                       "Safety, quality and workforce obligations":  35,
+                       "Privacy, cyber and data protection":  15
+                   },
+        "Frames":  {
+                       "Cost or challenge":  206,
+                       "Obligation or control":  211,
+                       "Transition or anticipation":  55,
+                       "Opportunity or legitimacy":  21,
+                       "Descriptive or neutral":  222
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2015,
+        "Words":  23514,
+        "Coded":  59,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  4,
+                      "burden":  0,
+                      "requirement":  7,
+                      "regulator":  0,
+                      "legislation":  1
+                  },
+        "Themes":  {
+                       "Compliance and governance":  7,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  28,
+                       "Direct cost and resourcing":  21,
+                       "Systems, data and process implementation":  4,
+                       "Licensing, approvals and market access":  4,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  10,
+                       "Safety, quality and workforce obligations":  11,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  23,
+                       "Obligation or control":  17,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  10
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2016,
+        "Words":  23661,
+        "Coded":  59,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  4,
+                      "burden":  0,
+                      "requirement":  8,
+                      "regulator":  0,
+                      "legislation":  0
+                  },
+        "Themes":  {
+                       "Compliance and governance":  7,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  29,
+                       "Direct cost and resourcing":  21,
+                       "Systems, data and process implementation":  5,
+                       "Licensing, approvals and market access":  5,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  10,
+                       "Safety, quality and workforce obligations":  9,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  22,
+                       "Obligation or control":  17,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  11
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2017,
+        "Words":  25884,
+        "Coded":  70,
+        "Terms":  {
+                      "regulation":  13,
+                      "compliance":  4,
+                      "burden":  0,
+                      "requirement":  10,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  6,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  32,
+                       "Direct cost and resourcing":  25,
+                       "Systems, data and process implementation":  8,
+                       "Licensing, approvals and market access":  7,
+                       "Environmental and climate obligations":  4,
+                       "Financial, tax and prudential rules":  9,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  28,
+                       "Obligation or control":  18,
+                       "Transition or anticipation":  5,
+                       "Opportunity or legitimacy":  5,
+                       "Descriptive or neutral":  14
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2018,
+        "Words":  26963,
+        "Coded":  98,
+        "Terms":  {
+                      "regulation":  12,
+                      "compliance":  4,
+                      "burden":  0,
+                      "requirement":  12,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  6,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  42,
+                       "Direct cost and resourcing":  31,
+                       "Systems, data and process implementation":  9,
+                       "Licensing, approvals and market access":  24,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  9,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  35,
+                       "Obligation or control":  25,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  28
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2019,
+        "Words":  28491,
+        "Coded":  123,
+        "Terms":  {
+                      "regulation":  19,
+                      "compliance":  4,
+                      "burden":  0,
+                      "requirement":  12,
+                      "regulator":  0,
+                      "legislation":  2
+                  },
+        "Themes":  {
+                       "Compliance and governance":  6,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  40,
+                       "Direct cost and resourcing":  40,
+                       "Systems, data and process implementation":  11,
+                       "Licensing, approvals and market access":  43,
+                       "Environmental and climate obligations":  2,
+                       "Financial, tax and prudential rules":  15,
+                       "Safety, quality and workforce obligations":  12,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  46,
+                       "Obligation or control":  25,
+                       "Transition or anticipation":  6,
+                       "Opportunity or legitimacy":  4,
+                       "Descriptive or neutral":  42
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2020,
+        "Words":  50142,
+        "Coded":  146,
+        "Terms":  {
+                      "regulation":  22,
+                      "compliance":  8,
+                      "burden":  0,
+                      "requirement":  29,
+                      "regulator":  2,
+                      "legislation":  8
+                  },
+        "Themes":  {
+                       "Compliance and governance":  12,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  37,
+                       "Direct cost and resourcing":  19,
+                       "Systems, data and process implementation":  16,
+                       "Licensing, approvals and market access":  21,
+                       "Environmental and climate obligations":  10,
+                       "Financial, tax and prudential rules":  17,
+                       "Safety, quality and workforce obligations":  10,
+                       "Privacy, cyber and data protection":  12
+                   },
+        "Frames":  {
+                       "Cost or challenge":  35,
+                       "Obligation or control":  52,
+                       "Transition or anticipation":  15,
+                       "Opportunity or legitimacy":  3,
+                       "Descriptive or neutral":  41
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2021,
+        "Words":  50719,
+        "Coded":  172,
+        "Terms":  {
+                      "regulation":  17,
+                      "compliance":  9,
+                      "burden":  0,
+                      "requirement":  27,
+                      "regulator":  1,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  11,
+                       "Regulatory change and uncertainty":  0,
+                       "Reporting, disclosure and assurance":  53,
+                       "Direct cost and resourcing":  29,
+                       "Systems, data and process implementation":  17,
+                       "Licensing, approvals and market access":  34,
+                       "Environmental and climate obligations":  11,
+                       "Financial, tax and prudential rules":  16,
+                       "Safety, quality and workforce obligations":  13,
+                       "Privacy, cyber and data protection":  12
+                   },
+        "Frames":  {
+                       "Cost or challenge":  42,
+                       "Obligation or control":  53,
+                       "Transition or anticipation":  10,
+                       "Opportunity or legitimacy":  2,
+                       "Descriptive or neutral":  65
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2022,
+        "Words":  44135,
+        "Coded":  149,
+        "Terms":  {
+                      "regulation":  11,
+                      "compliance":  6,
+                      "burden":  0,
+                      "requirement":  30,
+                      "regulator":  1,
+                      "legislation":  5
+                  },
+        "Themes":  {
+                       "Compliance and governance":  8,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  53,
+                       "Direct cost and resourcing":  34,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  28,
+                       "Environmental and climate obligations":  9,
+                       "Financial, tax and prudential rules":  18,
+                       "Safety, quality and workforce obligations":  12,
+                       "Privacy, cyber and data protection":  9
+                   },
+        "Frames":  {
+                       "Cost or challenge":  40,
+                       "Obligation or control":  50,
+                       "Transition or anticipation":  12,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  46
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2023,
+        "Words":  45815,
+        "Coded":  177,
+        "Terms":  {
+                      "regulation":  18,
+                      "compliance":  17,
+                      "burden":  0,
+                      "requirement":  33,
+                      "regulator":  1,
+                      "legislation":  12
+                  },
+        "Themes":  {
+                       "Compliance and governance":  18,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  64,
+                       "Direct cost and resourcing":  48,
+                       "Systems, data and process implementation":  23,
+                       "Licensing, approvals and market access":  23,
+                       "Environmental and climate obligations":  8,
+                       "Financial, tax and prudential rules":  26,
+                       "Safety, quality and workforce obligations":  15,
+                       "Privacy, cyber and data protection":  9
+                   },
+        "Frames":  {
+                       "Cost or challenge":  60,
+                       "Obligation or control":  49,
+                       "Transition or anticipation":  17,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  51
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2024,
+        "Words":  53290,
+        "Coded":  204,
+        "Terms":  {
+                      "regulation":  30,
+                      "compliance":  22,
+                      "burden":  0,
+                      "requirement":  39,
+                      "regulator":  1,
+                      "legislation":  10
+                  },
+        "Themes":  {
+                       "Compliance and governance":  23,
+                       "Regulatory change and uncertainty":  1,
+                       "Reporting, disclosure and assurance":  75,
+                       "Direct cost and resourcing":  45,
+                       "Systems, data and process implementation":  27,
+                       "Licensing, approvals and market access":  26,
+                       "Environmental and climate obligations":  22,
+                       "Financial, tax and prudential rules":  30,
+                       "Safety, quality and workforce obligations":  20,
+                       "Privacy, cyber and data protection":  8
+                   },
+        "Frames":  {
+                       "Cost or challenge":  57,
+                       "Obligation or control":  60,
+                       "Transition or anticipation":  20,
+                       "Opportunity or legitimacy":  0,
+                       "Descriptive or neutral":  67
+                   },
+        "Evidence":  ""
+    },
+    {
+        "Ticker":  "TPM",
+        "Company":  "TPG Telecom Limited",
+        "DirName":  "TPM - TPG Telecom Limited",
+        "Year":  2025,
+        "Words":  60066,
+        "Coded":  241,
+        "Terms":  {
+                      "regulation":  30,
+                      "compliance":  18,
+                      "burden":  0,
+                      "requirement":  55,
+                      "regulator":  3,
+                      "legislation":  15
+                  },
+        "Themes":  {
+                       "Compliance and governance":  27,
+                       "Regulatory change and uncertainty":  2,
+                       "Reporting, disclosure and assurance":  90,
+                       "Direct cost and resourcing":  60,
+                       "Systems, data and process implementation":  18,
+                       "Licensing, approvals and market access":  23,
+                       "Environmental and climate obligations":  28,
+                       "Financial, tax and prudential rules":  31,
+                       "Safety, quality and workforce obligations":  23,
+                       "Privacy, cyber and data protection":  5
+                   },
+        "Frames":  {
+                       "Cost or challenge":  71,
+                       "Obligation or control":  83,
+                       "Transition or anticipation":  23,
+                       "Opportunity or legitimacy":  1,
+                       "Descriptive or neutral":  63
+                   },
+        "Evidence":  ""
+    }
+]
