@@ -8,9 +8,9 @@ The principal output is term incidence per 100,000 extracted words. Annual and s
 
 ## Lexical coding
 
-The primary measure combines six case-insensitive regular-expression families: regulation, compliance, burden, requirement, regulator, and legislation. Inflectional variants are defined explicitly in the extraction script rather than through stemming or lemmatization.
+The primary measure combines six non-overlapping, case-insensitive regular-expression families: regulation, compliance, burden, requirement, regulator, and legislation. Inflectional variants are defined explicitly in the extraction script rather than through stemming or lemmatization. `Regulator` and `regulators` are excluded from the regulation family and counted only in the regulator family.
 
-This approach is transparent and reproducible, but it does not resolve word sense. For example, a “capital requirement” and an environmental “reporting requirement” both contribute to the requirement family.
+This approach is transparent and reproducible, but it does not resolve word sense. For example, a "capital requirement" and an environmental "reporting requirement" both contribute to the requirement family.
 
 ## Passage selection
 
@@ -56,6 +56,4 @@ The quality scripts test PDF signatures and trailers, Poppler readability, page 
 - OCR and PDF layout can split or merge words and sentences.
 - The retained complete-coverage panel introduces survivorship and availability selection.
 - Sector and company comparisons may reflect different disclosure obligations and report conventions.
-- Revenue values use each report's stated currency; cross-currency scatter plots are descriptive, not directly comparable measures of economic size.
 - Dictionary coding should be validated against manually coded samples before causal or legal conclusions are drawn.
-

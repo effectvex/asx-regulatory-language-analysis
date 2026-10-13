@@ -1,20 +1,21 @@
 # ASX regulatory-language analysis
 
-Reproducible code and derived data for the 2015–2025 analysis of regulatory language in 1,045 annual reports from 95 companies in the retained ASX200 continuity panel.
+Reproducible code and derived data for the 2015-2025 analysis of regulatory language in 1,045 annual reports from 95 companies in the retained ASX200 continuity panel.
 
 The repository measures how frequently six regulatory-language families occur, normalized per 100,000 extracted words. It also codes the surrounding passages by theme and frame, produces sector and company comparisons, and audits document quality.
 
 ## What is included
 
-- `scripts/extract-regulatory-language.ps1` — PDF-to-text extraction, word counting, six-term incidence, thematic coding, and frame coding.
-- `scripts/generate-html-report.ps1` — self-contained interactive HTML report generator.
-- `scripts/process-dashboard-data.ps1` — graph-ready annual, sector, company, histogram, and revenue datasets.
-- `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` — spreadsheet exports.
-- `scripts/quality/` — PDF integrity, identity, completeness, word-count, and Form 20-F checks.
-- `data/processed/company-year-analysis.csv` — the 1,045-row company-year analytical dataset.
-- `data/intermediate/` — eight reproducible extraction shards used by the report generator.
-- `data/graph-data/` — graph-ready outputs used to cross-check the dashboard.
-- `data/manifests/` — company-panel and sector metadata.
+- `scripts/extract-regulatory-language.ps1` - PDF-to-text extraction, word counting, six-term incidence, thematic coding, and frame coding.
+- `scripts/build-company-year-data.ps1` - rebuilds the company-year incidence table from extraction shards.
+- `scripts/generate-html-report.ps1` - self-contained interactive HTML report generator.
+- `scripts/process-dashboard-data.ps1` - graph-ready annual, sector, company, and histogram datasets.
+- `scripts/export-excel.ps1` and `scripts/add-incidence-chart.py` - spreadsheet exports.
+- `scripts/quality/` - PDF integrity, identity, completeness, word-count, and Form 20-F checks.
+- `data/processed/company-year-analysis.csv` - the 1,045-row company-year analytical dataset.
+- `data/intermediate/` - eight reproducible extraction shards used by the report generator.
+- `data/graph-data/` - graph-ready outputs used to cross-check the dashboard.
+- `data/manifests/` - company-panel and sector metadata.
 
 Annual-report PDFs are intentionally excluded. They remain subject to their publishers' rights and can be placed locally in `annual-reports/` using this structure:
 
@@ -28,16 +29,16 @@ annual-reports/
 
 ## Six tracked term families
 
-The primary incidence measure is the combined count of:
+The primary incidence measure is the combined count of these non-overlapping families:
 
-1. `regulation`, `regulations`, `regulatory`, `regulator`, and `regulators`
+1. `regulation`, `regulations`, and `regulatory`
 2. `compliance`, `compliances`, and `compliant`
 3. `burden` and `burdens`
 4. `requirement` and `requirements`
 5. `regulator` and `regulators`
 6. `legislation`, `legislations`, `legislative`, and `legislated`
 
-The exact regular expressions are in `scripts/extract-regulatory-language.ps1`. The first family intentionally includes the regulator forms while the separately reported `regulator` family also counts them; consequently, the six-family aggregate follows the original dashboard specification and is not a count of mutually exclusive tokens.
+The exact regular expressions are in `scripts/extract-regulatory-language.ps1`. In particular, `regulator` and `regulators` are excluded from the regulation family and counted only in the separate regulator family.
 
 ## Reproduce the analysis
 
@@ -54,7 +55,13 @@ Install Python dependencies:
 python -m pip install -r requirements.txt
 ```
 
-Extract the eight shards from locally supplied annual reports:
+Run the complete extraction and report pipeline:
+
+```powershell
+./scripts/run-analysis.ps1
+```
+
+Or extract the eight shards individually:
 
 ```powershell
 0..7 | ForEach-Object {
@@ -81,18 +88,29 @@ The checked-in intermediate and processed data allow the aggregation logic to be
 Incidence is calculated as:
 
 ```text
-100,000 × tracked-term occurrences ÷ extracted words
+100,000 * tracked-term occurrences / extracted words
 ```
 
 This measures disclosure-language frequency. It does not measure actual compliance expenditure, legal exposure, regulatory quality, or whether regulation is beneficial or burdensome. Differences can also reflect report length, reporting style, OCR quality, corporate structure, and sector-specific disclosure conventions.
 
-See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations.
+See [METHODOLOGY.md](METHODOLOGY.md) for the coding framework and limitations. See [VALIDATION.md](VALIDATION.md) for completed coding guardrails and the independent human-validation protocol. Theme and frame outputs remain exploratory until that protocol is completed.
+
+## Tests and continuous integration
+
+Run the repository checks without the annual-report PDFs:
+
+```powershell
+python -m unittest discover -s tests -v
+```
+
+The tests verify the balanced-panel shape, non-overlapping lexical definitions, passage-coding guardrails, exclusive frame totals, absence of report extracts and revenue fields, company-year incidence calculations, and corpus-weighted annual aggregation. GitHub Actions runs these checks and parses every PowerShell script on each push and pull request.
 
 ## Data provenance
 
-The analytical panel contains 95 retained companies with complete 2015–2025 coverage, giving 1,045 company-year observations. Annual reports were obtained from company investor-relations sites and official filing sources, then subjected to structural and text-extraction checks. The repository does not claim that the retained panel reproduces the membership of a published ASX index at every historical date.
+The analytical panel contains 95 retained companies with complete 2015-2025 coverage, giving 1,045 company-year observations. Annual reports were obtained from company investor-relations sites and official filing sources, then subjected to structural and text-extraction checks. The repository does not claim that the retained panel reproduces the membership of a published ASX index at every historical date.
 
-## License
+## Licences
 
-No open-source licence has yet been applied. The code is publicly viewable, but reuse remains subject to the repository owner's copyright unless a licence is added later. Third-party annual reports have their own terms.
-
+- Code is released under the [MIT License](LICENSE).
+- Derived numerical data in `data/` are released under [CC BY 4.0](DATA_LICENSE.md).
+- Annual reports and other third-party source materials are not covered by these licences.

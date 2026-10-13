@@ -9,8 +9,6 @@ $rows = Import-Csv $InputCsv | ForEach-Object {
     Year=[int]$_.Year; Ticker=$_.Ticker; Name=$_.Name; Sector=$_.Sector; Subsector=$_.Subsector
     IsASX50=([bool]::Parse($_.IsASX50)); Rate=[double]$_.SixTermIncidencePer100k
     Words=[double]$_.ExtractedWords; Coded=[double]$_.CodedPassages
-    RevenueMillions=if([string]::IsNullOrWhiteSpace($_.AnnualRevenueMillions)){$null}else{[double]$_.AnnualRevenueMillions}
-    RevenueCurrency=$_.RevenueCurrency
   }
 }
 
@@ -39,6 +37,4 @@ $company = $rows | Group-Object Ticker | ForEach-Object {
 $company | Export-Csv (Join-Path $OutputDirectory 'company-comparison.csv') -NoTypeInformation -Encoding UTF8
 
 $rows | Select-Object Year,Ticker,Name,Sector,Subsector,SixTermIncidencePer100k,Words,CodedPassages | Export-Csv (Join-Path $OutputDirectory 'histogram-observations.csv') -NoTypeInformation -Encoding UTF8
-$rows | Where-Object {$null -ne $_.RevenueMillions -and $_.RevenueMillions -gt 0} | Select-Object Year,Ticker,Name,Sector,Subsector,SixTermIncidencePer100k,RevenueMillions,RevenueCurrency | Export-Csv (Join-Path $OutputDirectory 'revenue-scatter.csv') -NoTypeInformation -Encoding UTF8
-
 Write-Output "Created graph-ready outputs in $OutputDirectory"

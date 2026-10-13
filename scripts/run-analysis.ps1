@@ -13,6 +13,7 @@ foreach($shard in 0..7){
     -OutputDir $OutputDirectory -Pdftotext $Pdftotext
 }
 
+& (Join-Path $PSScriptRoot 'build-company-year-data.ps1') -ShardDirectory $OutputDirectory
 & (Join-Path $PSScriptRoot 'process-dashboard-data.ps1')
 & (Join-Path $PSScriptRoot 'generate-html-report.ps1') `
   -ArchiveName $Archive -ShardDirectory $OutputDirectory -PanelName ASX200
